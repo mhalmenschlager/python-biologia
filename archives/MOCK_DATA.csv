@@ -1,0 +1,1001 @@
+id,datetime,family,name,latitude,longitude,city,country
+1,7/9/2021,Liliaceae,Trillium chloropetalum (Torr.) Howell var. giganteum (Hook. & Arn.) Munz,43.2370452,23.1251092,Berkovitsa,Bulgaria
+2,11/11/2020,Apiaceae,Eryngium alismifolium Greene,39.2256483,-9.0073673,Cercal,Portugal
+3,9/11/2021,Verbenaceae,Clerodendrum wallichii Merr.,-34.1998816,22.104272,Mossel Bay,South Africa
+4,6/4/2021,Polygonaceae,Koenigia islandica L.,32.2821952,-90.2291565,Jackson,United States
+5,12/5/2020,Lamiaceae,Salvia vaseyi (Porter) Parish,35.950284,101.968352,Magitang,China
+6,4/6/2021,Fabaceae,Senna orcuttii (Britton & Rose) Irwin & Barneby,42.2497494,23.0548108,Dupnitsa,Bulgaria
+7,7/8/2021,Campanulaceae,Triodanis Raf. ex Greene,39.997756,116.190434,Markog,China
+8,11/15/2020,Poaceae,Panicum xerophilum (Hillebr.) Hitchc.,31.009235,121.417985,Jiangchuanlu,China
+9,4/11/2021,Rosaceae,Spiraea ×arguta Zabel,24.7740708,68.488659,Kario,Pakistan
+10,12/27/2020,Poaceae,Eragrostis tef (Zuccagni) Trotter,9.3172545,123.4102597,Lilio,Philippines
+11,1/21/2021,Poaceae,Chloris radiata (L.) Sw.,-29.5903512,31.1366715,Ndwedwe,South Africa
+12,4/30/2021,Styracaceae,Styrax benzoides Craib,44.4868448,43.9408057,Niny,Russia
+13,6/24/2021,Poaceae,Panicum rigidulum Bosc ex Nees var. pubescens (Vasey) Lelong,56.67925,12.9321834,Ljungby,Sweden
+14,2/5/2021,Rhamnaceae,Ceanothus greggii A. Gray var. greggii,30.6803557,104.1142719,Qiaosi,China
+15,9/11/2021,Melastomataceae,Miconia laevigata (L.) D. Don,53.7667424,91.3992147,Abakan,Russia
+16,7/22/2021,Aristolochiaceae,Hexastylis arifolia (Michx.) Small var. ruthii (Ashe) Blomquist,17.7409147,-91.7660525,Emiliano Zapata,Mexico
+17,2/12/2021,Asteraceae,Senecio cannabifolius Less.,30.1444208,121.4305273,Hongyi,China
+18,4/26/2021,Rosaceae,Rubus invisus (L.H. Bailey) Britton,49.417735,19.6808046,Chyżne,Poland
+19,5/11/2021,Scrophulariaceae,Penstemon watsonii A. Gray,34.80278,113.308961,Shangjie,China
+20,3/14/2021,Scrophulariaceae,Gratiola floridana Nutt.,40.7681987,-73.9608428,New York City,United States
+21,5/18/2021,Lichinaceae,Pyrenopsis viridirufa Tuck.,31.261447,35.214862,‘Arad,Israel
+22,3/26/2021,Orchidaceae,Piperia colemanii R. Morgan & Glicenstein,41.3495192,-8.5704778,Ribeirão,Portugal
+23,3/30/2021,Polygonaceae,Polygonum ramosissimum Michx. var. ramosissimum,-7.2087854,112.7479862,Ujung,Indonesia
+24,8/9/2021,Haematommataceae,Loxospora pustulata (Brodo & W.L. Culb.) R.C. Harris,6.5930772,124.6161575,Kudanding,Philippines
+25,12/25/2020,Poaceae,Arundinella Raddi,51.5489435,33.3860497,Krolevets’,Ukraine
+26,12/10/2020,Rosaceae,Potentilla diversifolia Lehm. var. perdissecta (Rydb.) C.L. Hitchc.,20.9959819,105.8097244,Thanh Xuân,Vietnam
+27,5/12/2021,Cactaceae,Echinocactus horizonthalonius Lem.,30.071108,120.933128,Xiaoyue,China
+28,10/31/2020,Fabaceae,Astragalus hallii A. Gray var. fallax (M.E. Jones) Barneby,48.9292043,40.3719341,Millerovo,Russia
+29,10/31/2020,Iridaceae,Ixia L.,23.131797,113.407143,Huangcun,China
+30,1/14/2021,Lecanoraceae,Lecanora nordenskioeldii Vain.,55.6607711,52.3473021,Naberezhnyye Chelny,Russia
+31,7/25/2021,Fabaceae,Oxytropis borealis DC. var. australis S.L. Welsh,39.898215,116.178179,Baimiao,China
+32,3/14/2021,Poaceae,Panicum alatum F. Zuloaga & O. Morrone var. minus (Andersson) F. Zuloaga & O. Morrone,38.8053078,-9.2279436,Casal de Cambra,Portugal
+33,12/16/2020,Liliaceae,Fritillaria gentneri Gilkey,25.871681,114.674065,Dongkengkou,China
+34,5/28/2021,Violaceae,Viola pedata L.,21.776254,111.221995,Shalang,China
+35,7/4/2021,Berberidaceae,Berberis canadensis Mill.,-19.157438,-45.4447859,Abaeté,Brazil
+36,5/1/2021,Scrophulariaceae,Castilleja flava S. Watson var. rustica (Piper) N.H. Holmgren,-28.4267829,-52.2182111,Marau,Brazil
+37,4/24/2021,Liliaceae,Erythronium mesochoreum Knerr,41.879109,-86.550039,Detroit,United States
+38,6/16/2021,Orchidaceae,Cypripedium ×andrewsii A.M. Fuller var. favillianum (J.T. Curtis) B. Boivin (pro nm.),37.1597829,-7.9440252,Malhão,Portugal
+39,1/29/2021,Lamiaceae,Monarda punctata L. ssp. punctata var. coryi (E.M. McClint. & Epling) Shinners,49.6705225,13.3996389,Štěnovice,Czech Republic
+40,7/26/2021,Ericaceae,Cassiope mertensiana (Bong.) G. Don var. gracilis (Piper) C.L. Hitchc.,41.274605,-8.0974429,Casa Nova,Portugal
+41,11/9/2020,Polemoniaceae,Leptosiphon pygmaeus (Brand) J.M. Porter & L.A. Johnson ssp. pygmaeus,33.6716082,61.9813913,Adraskan,Afghanistan
+42,12/23/2020,Cyperaceae,Carex incurviformis Mack.,42.896428,130.585349,Miaoling,China
+43,10/13/2020,Asteraceae,Achillea millefolium L. var. pacifica (Rydb.) G.N. Jones,3.541868,98.729681,Luthu,Indonesia
+44,6/28/2021,Rosaceae,Crataegus anamesa Sarg.,39.0277832,-94.6557914,Shawnee Mission,United States
+45,12/15/2020,Acanthaceae,Hypoestes Sol. ex R. Br.,45.5733817,-0.4198187,Royan,France
+46,5/5/2021,Liliaceae,Triteleia grandiflora Lindl. var. howellii (S. Watson) Hoover,57.2992579,39.8548496,Gavrilov-Yam,Russia
+47,6/2/2021,Cladoniaceae,Cladonia macilenta Hoffm.,29.560254,106.454213,Caqu,China
+48,5/1/2021,Lauraceae,Ocotea moschata (Pav. ex Meisn.) Mez,41.58167,19.98556,Kombësi,Albania
+49,10/11/2020,Ranunculaceae,Aquilegia micrantha Eastw. var. mancosana Eastw.,55.6411722,37.8060214,Kapotnya,Russia
+50,11/7/2020,Asteraceae,Gazania Gaertn.,14.0644874,101.5156074,Prachamtakham,Thailand
+51,3/24/2021,Asteraceae,Geraea canescens Torr. & A. Gray,14.6425547,121.010151,Ilihan,Philippines
+52,4/4/2021,Hypnaceae,Hypnum pallescens (Hedw.) P. Beauv.,39.3408388,23.0126047,Agriá,Greece
+53,12/4/2020,Boraginaceae,Cryptantha corollata (I.M. Johnst.) I.M. Johnst.,6.009544,80.780153,Tangalla,Sri Lanka
+54,9/17/2020,Parmeliaceae,Parmelia omphalodes (L.) Ach. ssp. omphalodes,-6.9338,113.9812,Kayukembang,Indonesia
+55,4/2/2021,Malvaceae,Fioria vitifolia (L.) Mattei,45.8697083,43.3478599,Divnoye,Russia
+56,9/22/2020,Poaceae,Poa ×nematophylla Rydb. (pro sp.),-6.7392854,106.3449755,Ciusul,Indonesia
+57,1/29/2021,Asteraceae,Erigeron glabellus Nutt. var. glabellus,41.9238499,20.3755648,Ujmisht,Albania
+58,3/24/2021,Coccocarpiaceae,Coccocarpia erythroxyli (Spreng.) Swinscow & Krog,3.8152026,117.1147095,Atap,Indonesia
+59,5/2/2021,Polytrichaceae,Atrichum haussknechtii Jur. & Milde,36.8634887,21.9208543,Ágios Andréas,Greece
+60,4/11/2021,Chenopodiaceae,Atriplex canescens (Pursh) Nutt.,29.536212,104.189955,Xinpo,China
+61,3/17/2021,Asteraceae,Xylorhiza cognata (H.M. Hall) T.J. Watson,31.238854,121.331694,Jiangqiao,China
+62,2/8/2021,Asclepiadaceae,Asclepias speciosa Torr.,23.1387718,89.2502399,Jessore,Bangladesh
+63,5/25/2021,Asteraceae,Silphium integrifolium Michx. var. neglectum Settle & T.R. Fisher,44.4846365,21.6706559,Kučevo,Serbia
+64,4/21/2021,Verbenaceae,Lantana depressa Small var. sanibelensis R.W. Sanders,33.52575,105.91854,Xihuaiba,China
+65,12/5/2020,Fabaceae,Sphinctospermum Rose,32.10828,35.05096,Masḩah,Palestinian Territory
+66,8/31/2021,Scrophulariaceae,Penstemon eriantherus Pursh var. redactus Pennell & D.D. Keck,53.1892176,50.119277,Khiv,Russia
+67,3/2/2021,Celastraceae,Crossopetalum P. Br.,9.0453708,-11.7481137,Bumbuna,Sierra Leone
+68,8/11/2021,Fabaceae,Galactia floridana Torr. & A. Gray,35.3,25,Stalís,Greece
+69,3/13/2021,Liliaceae,Zephyranthes atamasca (L.) Herb.,-7.4977546,108.6351043,Pasirgaru,Indonesia
+70,2/16/2021,Fabaceae,Lupinus sellulus Kellogg ssp. sellulus var. lobbii (A. Gray ex S. Watson) Cox,24.1838881,120.617471,Tongqian,China
+71,9/12/2021,Collemataceae,Leptogium (Ach.) A. Gray,-8.1001586,113.8436013,Karangpeton,Indonesia
+72,2/23/2021,Aspleniaceae,Asplenium salicifolium L.,12.6256834,11.9804613,Geidam,Nigeria
+73,8/4/2021,Asteraceae,Townsendia parryi D.C. Eaton,35.529096,112.849999,Wuxia,China
+74,12/26/2020,Asteraceae,Vernonia galamensis (Cass.) Less.,8.7261944,-74.0887576,Barranco de Loba,Colombia
+75,9/11/2021,Hymenophyllaceae,Hymenophyllum fucoides (Sw.) Sw.,31.317494,119.276426,Shezhu,China
+76,1/20/2021,Orthotrichaceae,Orthotrichum flowersii Vitt,40.4888987,-79.8900686,Pittsburgh,United States
+77,3/14/2021,Convolvulaceae,Jacquemontia cayensis Britton,8.3412493,-77.2175223,Acandí,Colombia
+78,6/7/2021,Lamiaceae,Hedeoma todsenii Irving,-39.0593613,174.0768108,New Plymouth,New Zealand
+79,3/1/2021,Lamiaceae,Phyllostegia kahiliensis H. St. John,50.64274,15.2540856,Železný Brod,Czech Republic
+80,10/14/2020,Poaceae,Coleanthus subtilis (Tratt.) Seidel,41.536057,20.696064,Debar,Macedonia
+81,12/9/2020,Zygophyllaceae,Larrea tridentata (DC.) Coville var. tridentata,39.9416682,116.3958807,Gulou,China
+82,5/19/2021,Lentibulariaceae,Utricularia bifida L.,13.2874832,6.301229,Shinkafe,Nigeria
+83,6/2/2021,Asteraceae,Crepis bakeri Greene,49.4904742,11.0986834,Nürnberg,Germany
+84,10/30/2020,Cyperaceae,Carex atlantica L.H. Bailey ssp. atlantica,39.283086,117.432007,Zaojiacheng,China
+85,9/24/2020,Poaceae,"Muhlenbergia racemosa (Michx.) Britton, Sterns & Poggenb.",-8.5769332,-35.9369952,Cupira,Brazil
+86,12/28/2020,Convolvulaceae,Convolvulus nodiflorus Desv.,-17.4738864,24.2955141,Sesheke,Zambia
+87,6/15/2021,Asteraceae,Helianthus cusickii A. Gray,56.1644128,12.8833299,Ängelholm,Sweden
+88,11/7/2020,Iridaceae,Watsonia borbonica (Pourr.) Goldblatt,8.47834,125.743983,San Luis,Philippines
+89,12/24/2020,Nymphaeaceae,Nuphar lutea (L.) Sm. ssp. sagittifolia (Walter) E.O. Beal,-1.3524989,-48.2592606,Benevides,Brazil
+90,12/13/2020,Boraginaceae,Lappula occidentalis (S. Watson) Greene var. cupulata (A. Gray) Higgins,-24.5997626,17.9413323,Mariental,Namibia
+91,5/7/2021,Iridaceae,Sisyrinchium calciphilum Sorrie,31.1707547,121.3963702,Shuiyin,China
+92,1/29/2021,Lamiaceae,Acanthomintha duttonii (Abrams) Jokerst,18.4670158,-69.8932436,Ciudad Nueva,Dominican Republic
+93,3/14/2021,Apiaceae,Angelica pinnata S. Watson,41.6412644,19.705595,Laç,Albania
+94,4/11/2021,Acanthaceae,Ruellia caroliniensis (J.F. Gmel.) Steud. ssp. ciliosa (Pursh) R.W. Long var. cinerascens (Fernald) Kartesz & Gandhi,41.2096885,-7.7780329,Ribeiro,Portugal
+95,6/12/2021,Ramalinaceae,Ramalina paludosa B. Moore,46.5838069,0.3350126,Poitiers,France
+96,3/13/2021,Malvaceae,Lavatera L.,14.2524816,100.7323332,Wang Noi,Thailand
+97,9/11/2021,Polygonaceae,Eriogonum ostlundii M.E. Jones,32.025538,104.868349,Tiechanggou,China
+98,10/14/2020,Caryophyllaceae,Gypsophila elegans M. Bieb.,-7.2719005,112.7196817,Banyuurip,Indonesia
+99,12/26/2020,Rutaceae,Fortunella Swingle,49.4753404,83.142888,Belogorskīy,Kazakhstan
+100,6/30/2021,Scrophulariaceae,Penstemon acuminatus Douglas ex Lindl.,45.6473994,15.3176752,Metlika,Slovenia
+101,9/8/2021,Poaceae,Festuca idahoensis Elmer,-14.5205297,-75.2019585,Río Grande,Peru
+102,4/16/2021,Poaceae,Aristida purpurea Nutt. var. nealleyi (Vasey) Allred,39.909969,116.459299,Guxi,China
+103,1/5/2021,Scrophulariaceae,Penstemon lentus Pennell var. lentus,-23.3516191,43.6854936,Toliara,Madagascar
+104,7/1/2021,Fabaceae,Lupinus oreganus A. Heller var. kincaidii C.P. Sm.,26.2413688,105.9386306,Longshi,China
+105,10/6/2020,Umbilicariaceae,Umbilicaria arctica (Ach.) Nyl.,13.1561057,100.8120563,Ko Si Chang,Thailand
+106,10/16/2020,Arthoniaceae,Arthonia glaucescens Nyl.,19.4052965,-99.1504583,Buenos Aires,Mexico
+107,11/24/2020,Arthoniaceae,Arthonia caesia (Flotow) Körb.,-0.7069135,31.5370003,Rakai,Uganda
+108,1/31/2021,Ranunculaceae,Aquilegia scopulorum Tidestr.,52.286684,104.292306,Ivot,Russia
+109,8/8/2021,Caryophyllaceae,Minuartia pusilla (S. Watson) Mattf. var. pusilla,-7.0405,113.6397,Bangrat,Indonesia
+110,1/18/2021,Asteraceae,Lasthenia leptalea (A. Gray) Ornduff,24.412155,115.744112,Huangbei,China
+111,5/28/2021,Solanaceae,Solanum capsicoides All.,-6.4334,105.9098,Kadukandel,Indonesia
+112,10/3/2020,Onagraceae,Oenothera stricta Ledeb. ex Link,-11.82167,43.27806,Madjeouéni,Comoros
+113,9/16/2020,Orthotrichaceae,Orthotrichum pumilum Sw.,43.4945737,5.8978018,Paris 16,France
+114,5/3/2021,Boraginaceae,Cynoglossum L.,52.4460804,-9.4851741,Listowel,Ireland
+115,4/16/2021,Pteridaceae,Pteris denticulata Sw.,56.6607917,12.9004521,Halmstad,Sweden
+116,12/4/2020,Asteraceae,Ageratum conyzoides L.,-21.7034017,-47.27079,Tambaú,Brazil
+117,10/22/2020,Poaceae,Trisetum interruptum Buckley,46.6211188,30.7719233,Krasnosilka,Ukraine
+118,11/26/2020,Fabaceae,Astragalus chamaeleuce A. Gray var. laccoliticus (M.E. Jones) Barneby ex Isely,45.5787215,-72.001055,Windsor,Canada
+119,2/17/2021,Cladoniaceae,Cladonia simulata Robbins,-7.816461,-78.0452048,Huamachuco,Peru
+120,10/23/2020,Campanulaceae,"Cyanea koolauensis Lammers, Givnish & Sytsma",56.5646213,53.8155143,Sarapul,Russia
+121,6/30/2021,Rosaceae,Crataegus suborbiculata Sarg.,41.3469244,-8.1451415,Paço,Portugal
+122,7/1/2021,Bignoniaceae,Chilopsis linearis (Cav.) Sweet ssp. linearis,29.624269,118.373047,Zhengwan,China
+123,2/23/2021,Lamiaceae,Ocimum basilicum L.,-28.7840394,-51.6077771,Nova Prata,Brazil
+124,9/12/2021,Bryaceae,Bryum klinggraeffii Schimp.,7.1220009,124.5600318,Dualing,Philippines
+125,2/3/2021,Asteraceae,Arnica nevadensis A. Gray,-7.0555388,107.5767035,Batojaran,Indonesia
+126,8/3/2021,Asteraceae,Hymenoxys cooperi (A. Gray) Cockerell var. cooperi,26.893368,112.572018,Hengyang,China
+127,8/30/2021,Brassicaceae,Lepidium heterophyllum Benth.,34.363184,107.237743,Baojia,China
+128,11/17/2020,Rosaceae,Crataegus distincta Kruschke,53.1121503,48.4211315,Syzran’,Russia
+129,3/11/2021,Campanulaceae,Cyanea duvalliorum Lammers & H. Oppenh.,-7.57656,-40.4976324,Araripina,Brazil
+130,10/3/2020,Lamiaceae,Dicerandra odoratissima Harper,18.4305759,-69.9663985,Mella,Dominican Republic
+131,5/16/2021,Scrophulariaceae,Veronica serpyllifolia L. ssp. serpyllifolia,8.1087597,-11.8478324,Baiima,Sierra Leone
+132,12/19/2020,Fabaceae,Mucuna pruriens (L.) DC.,35.6940331,138.5178782,Ushiku,Japan
+133,9/2/2021,Polemoniaceae,Navarretia willamettensis S.C. Spencer,45.40015,-64.33205,Parrsboro,Canada
+134,11/1/2020,Zamiaceae,Zamia pumila L. ssp. pygmaea (Sims) Eckenwalder,-6.2204747,155.6376301,Kieta,Papua New Guinea
+135,12/15/2020,Myristicaceae,Virola calophylloidea Markgr.,8.89508,-76.35459,Los Córdobas,Colombia
+136,8/3/2021,Loganiaceae,Labordia cyrtandrae (Baill.) H. St. John,14.5699334,121.0204582,San Jose,Philippines
+137,5/16/2021,Ranunculaceae,Myosurus cupulatus S. Watson,25.4765601,-108.0887656,Los Angeles,Mexico
+138,12/10/2020,Verrucariaceae,Muellerella pygmaea (Körb.) D. Hawksw. var. athallina (Müll. Arg.) Triebel,32.3206,35.20329,Al Fandaqūmīyah,Palestinian Territory
+139,12/20/2020,Aceraceae,Acer ginnala Maxim.,53.1406245,17.1259608,Białośliwie,Poland
+140,1/27/2021,Caryophyllaceae,Paronychia lindheimeri Engelm. ex A. Gray var. lindheimeri,50.4145342,23.2170296,Susiec,Poland
+141,5/30/2021,Myrtaceae,Eucalyptus loxophleba Benth.,50.9811092,17.0357954,Żórawina,Poland
+142,8/31/2021,Amaranthaceae,Alternanthera flavescens Kunth,26.7957017,86.2970998,Sirāhā,Nepal
+143,7/9/2021,Bignoniaceae,Tabebuia Gomes ex DC.,41.8905758,140.6934778,Kameda-honchō,Japan
+144,3/10/2021,Asteraceae,Cirsium helenioides (L.) Hill,61.8245883,16.1406946,Hudiksvall,Sweden
+145,11/26/2020,Cyperaceae,Rhynchospora nivea Boeckeler,6.76716,80.9435092,Haputale,Sri Lanka
+146,6/6/2021,Parmeliaceae,Xanthoparmelia oleosa (Elix & P.M. Armstrong) Elix & T. Nash,48.4474111,25.0435007,Spas,Ukraine
+147,5/13/2021,Solanaceae,Solanum wallacei (A. Gray) Parish,35.4297161,134.3869188,Himeji,Japan
+148,10/18/2020,Rosaceae,Rhodotypos Siebold & Zucc.,45.2379183,38.9712949,Novotitarovskaya,Russia
+149,1/8/2021,Polemoniaceae,Leptosiphon breviculus (A. Gray) J.M. Porter & L.A. Johnson,41.8404241,23.485653,Bansko,Bulgaria
+150,5/14/2021,Solanaceae,Physalis subulata Rydb. var. neomexicana (Rydb.) Waterf. ex Kartesz & Gandhi,-6.9460598,111.8151245,Guwoterus,Indonesia
+151,4/15/2021,Cucurbitaceae,Doyerea Gros.,41.4956796,-8.3620667,Sande São Martinho,Portugal
+152,10/30/2020,Cyperaceae,Scleria laevis Willd.,-8.132709,-78.0552079,Angasmarca,Peru
+153,5/18/2021,Asteraceae,Grindelia fastigiata Greene,29.2979895,48.0510871,Bayān,Kuwait
+154,4/26/2021,Verrucariaceae,Endocarpon pusillum Hedwig,69.679788,18.9710079,Tromsø,Norway
+155,7/28/2021,Cyperaceae,Carex wahuensis C.A. Mey. ssp. wahuensis,17.9179214,-76.579165,Easington,Jamaica
+156,4/28/2021,Fabaceae,Bauhinia fassoglensis Kotschy ex Schweinf.,37.507694,101.414709,Tawa,China
+157,11/20/2020,Bombacaceae,Ceiba aesculifolia (Kunth) Britten & Baker f.,41.364568,21.253752,Крушево,Macedonia
+158,11/19/2020,Bacidiaceae,Lecania toninioides Zahlbr.,34.500554,103.129954,Daogao,China
+159,1/29/2021,Caliciaceae,Thelomma californicum (Tuck.) Tibell,-14.3521224,-170.7810162,Vailoatai,American Samoa
+160,2/28/2021,Brassicaceae,Erysimum teretifolium Eastw.,-10.7884789,-37.3185938,Areia Branca,Brazil
+161,3/24/2021,Poaceae,Aegilops triuncialis L.,-7.2324,108.1252,Tejakalapa,Indonesia
+162,7/27/2021,Fabaceae,Lupinus densiflorus Benth. var. palustris (Kellogg) C.P. Sm.,25.600272,115.786056,Huichang,China
+163,8/27/2021,Asteraceae,Porophyllum ruderale (Jacq.) Cass. ssp. macrocephalum (DC.) R.R. Johnson,-6.8364154,111.1980575,Mencon,Indonesia
+164,6/26/2021,Poaceae,Gastridium phleoides (Nees & Meyen) C.E. Hubbard,26.888665,112.616612,Yangfeng,China
+165,11/25/2020,Fabaceae,Lupinus aridus Douglas ssp. lenorensis (C.P. Sm.) Cox,14.342711,121.0656962,Sabtang,Philippines
+166,12/16/2020,Grossulariaceae,Ribes leptanthum A. Gray,38.4677243,-28.5112113,Candelária,Portugal
+167,2/14/2021,Sapotaceae,Sideroxylon lanuginosum Michx. ssp. albicans (Sarg.) Kartesz & Gandhi,15.098618,-90.318729,Salamá,Guatemala
+168,8/22/2021,Asteraceae,Acmella Rich. ex Pers.,-8.1241998,111.9924913,Sumberingin Kulon,Indonesia
+169,8/16/2021,Melastomataceae,Sagraea polystachya (Naud.) Triana,62.2666019,27.1252002,Pieksämäki,Finland
+170,5/5/2021,Rubiaceae,Galium trifidum L. ssp. columbianum (Rydb.) Hultén,7.8570335,36.5823944,Āgaro,Ethiopia
+171,1/20/2021,Solanaceae,Nierembergia hippomanica Miers var. caerulea (Miers) Millán,-8.655524,119.0052561,Rato,Indonesia
+172,3/18/2021,Potamogetonaceae,Stuckenia ×suecica (K. Richt.) Holub,54.8625893,69.2398607,Kyzylzhar,Kazakhstan
+173,10/4/2020,Poaceae,Eragrostis silveana Swallen,-7.45,108.033333,Cikalong,Indonesia
+174,7/16/2021,Loasaceae,Mentzelia pterosperma Eastw.,23.14355,53.7881,Muzayri‘,United Arab Emirates
+175,7/24/2021,Cyperaceae,Carex raymondii Calder,53.09697,-113.4729375,Millet,Canada
+176,4/5/2021,Lamiaceae,Scutellaria multiglandulosa (Kearney) Small ex Harper,49.1835908,24.7462961,Bilshivtsi,Ukraine
+177,4/18/2021,Amaranthaceae,Alternanthera hassleriana Chodat ex Chodat & Hassler,55.7,37.58333,Novyye Cherëmushki,Russia
+178,8/21/2021,Berberidaceae,Podophyllum peltatum L.,-20.3761919,57.5660161,Nouvelle France,Mauritius
+179,8/31/2021,Rosaceae,Rubus vitifolius Cham. & Schltdl. var. eastwoodianus (Rydb.) Munz,-7.4400668,108.6561601,Karangpaningal,Indonesia
+180,9/21/2020,Cyperaceae,Carex distans L.,44.8671415,4.9157564,Lorient,France
+181,9/29/2020,Fabaceae,Dipogon lignosus (L.) Verdc.,46.2475531,-60.2362743,Sydney Mines,Canada
+182,4/10/2021,Asteraceae,Hymenoxys ambigens (S.F. Blake) Bierner var. ambigens,43.082258,23.3786254,Lakatnik,Bulgaria
+183,4/3/2021,Podocarpaceae,Afrocarpus (J. Buchholz & E.G. Gray) C.N. Page,41.4112348,-7.9526065,Mondim de Basto,Portugal
+184,3/19/2021,Lamiaceae,Lamium album L.,43.8177168,4.343135,Nîmes,France
+185,5/15/2021,Ranunculaceae,Clematis morefieldii Kral,57.7330292,12.0793963,Göteborg,Sweden
+186,11/25/2020,Euphorbiaceae,Chamaesyce ocellata (Durand & Hilg.) Millsp. ssp. arenicola (Parish) Thorne,10.5925289,14.3210095,Maroua,Cameroon
+187,9/9/2021,Asteraceae,Pyrrocoma carthamoides Hook. var. cusickii (A. Gray) Kartesz & Gandhi,50.05998,21.8324138,Trzciana,Poland
+188,1/10/2021,Violaceae,Viola praemorsa Douglas ex Lindl. ssp. linguifolia (Nutt.) M.S. Baker & J.C. Clausen ex M. Peck,-13.8223647,-171.9596279,Nofoali‘i,Samoa
+189,5/2/2021,Myrtaceae,Eucalyptus nigra R.T. Baker,9.8734418,7.9551999,Kachia,Nigeria
+190,4/24/2021,Fabaceae,Arachis villosulicarpa Hoehne,47.491705,21.668453,Békéscsaba,Hungary
+191,3/23/2021,Caryophyllaceae,Silene virginica L.,56.0689945,13.2357106,Ljungby,Sweden
+192,2/18/2021,Rosaceae,Dryas integrifolia Vahl ssp. sylvatica (Hultén) Hultén,33.907654,120.114738,Batan,China
+193,12/31/2020,Orchidaceae,Miltonia Lindl.,-31.4311903,-62.0729285,Morteros,Argentina
+194,9/16/2020,Asteraceae,Bahia schaffneri S. Watson,41.6429311,-8.1464077,Telhado,Portugal
+195,6/30/2021,Violaceae,Viola ×hollickii House,-8.6766175,122.1291843,Sikka,Indonesia
+196,5/1/2021,Campanulaceae,Lobelia homophylla E. Wimm.,-18.0833977,-39.5499731,Mucuri,Brazil
+197,11/18/2020,Strigulaceae,Strigula americana R.C. Harris,-8.8814738,117.3733989,Tatebal,Indonesia
+198,8/8/2021,Dioscoreaceae,Dioscorea bulbifera L.,-19.9030544,-44.1170051,Contagem,Brazil
+199,8/13/2021,Campanulaceae,Lobelia gaudichaudii A. DC. ssp. gaudichaudii,42.0813751,48.2792467,Derbent,Russia
+200,10/28/2020,Potamogetonaceae,Potamogeton illinoensis Morong,39.2868418,-7.4229064,Portalegre,Portugal
+201,10/5/2020,Poaceae,Torreyochloa californica (Beetle) Church,51.6813704,7.9085254,Hamm,Germany
+202,6/14/2021,Myrtaceae,Eucalyptus acmenoides Schauer,60.4079862,5.3151044,Bergen,Norway
+203,6/23/2021,Cactaceae,Escobaria sneedii Britton & Rose,-25.4021046,-49.1347813,Pinhais,Brazil
+204,8/1/2021,Myrtaceae,Syzygium paniculatum Gaertn.,59.6517905,17.0779098,Enköping,Sweden
+205,7/8/2021,Cyperaceae,Carex brunnescens (Pers.) Poir. ssp. pacifica Kalela,15.911973,102.4609873,Waeng Yai,Thailand
+206,7/11/2021,Poaceae,Elymus canadensis L.,50.1661085,22.2214748,Rakszawa,Poland
+207,4/26/2021,Cyperaceae,Gahnia aspera Spreng. ssp. globosa (H. Mann) J. Kern,14.9699796,145.6412079,San Jose Village,Northern Mariana Islands
+208,7/14/2021,Boraginaceae,Amsinckia carinata A. Nelson & J.F. Macbr.,55.8437552,38.3176424,Stulovo,Russia
+209,1/16/2021,Fabaceae,Lupinus arcticus S. Watson ssp. subalpinus (Piper & B.L. Rob.) D. Dunn,-8.6738819,115.2096864,Jungutbatu Kaja Dua,Indonesia
+210,10/13/2020,Lamiaceae,Hedeoma dentata Torr.,34.759314,108.992603,Lingqian,China
+211,10/18/2020,Zingiberaceae,Curcuma aromatica Salisb.,-35.1164987,-71.2829759,Molina,Chile
+212,12/3/2020,Campanulaceae,Campanula garganica Ten.,10.7164071,123.37862,Bugang,Philippines
+213,3/29/2021,Lecanoraceae,Lecanora rupicola (L.) Zahlbr.,6.5390358,21.9910008,Bria,Central African Republic
+214,1/31/2021,Teloschistaceae,Caloplaca herbidella (Hue) H. Magn.,36.854929,114.503339,Shahe,China
+215,5/11/2021,Hydrophyllaceae,Phacelia lutea (Hook. & Arn.) J.T. Howell var. lutea,-6.7131574,107.0185123,Cipanas,Indonesia
+216,9/3/2021,Acanthaceae,Justicia spicigera Schltdl.,39.6678843,-8.8344377,Jardoeira,Portugal
+217,6/28/2021,Gesneriaceae,Cyrtandra garnotiana Gaudich.,22.6281506,114.1150734,Sanlian,China
+218,5/31/2021,Polygalaceae,Polygala cruciata L. var. cruciata,-6.2167736,106.5230542,Cikupa,Indonesia
+219,12/24/2020,Grimmiaceae,Schistidium agassizii Sull. & Lesq.,28.286067,109.429883,Buchou,China
+220,8/9/2021,Fabaceae,Astragalus clarianus Jeps.,23.090823,113.74595,Gaobu,China
+221,2/7/2021,Poaceae,Bromus porteri (J.M. Coult.) Nash,26.938792,113.861611,Zhitang,China
+222,6/20/2021,Fabaceae,Cladrastis Raf.,-9.6923735,120.3322404,Kawangu Satu,Indonesia
+223,9/16/2020,Rosaceae,Crataegus pratensis Sarg.,-7.3063645,110.1209019,Pengilon,Indonesia
+224,6/4/2021,Clusiaceae,Hypericum mitchellianum Rydb.,14.6293712,121.1072374,Mileb,Philippines
+225,7/25/2021,Iridaceae,Ixia polystachya L.,23.0303395,-81.5322149,Matanzas,Cuba
+226,7/30/2021,Polygonaceae,Eriogonum tenellum Torr. var. platyphyllum (Torr. ex Benth.) Torr.,53.1395216,14.4504726,Widuchowa,Poland
+227,8/30/2021,Poaceae,Bothriochloa longipaniculata (Gould) Allred & Gould,49.01671,-57.59837,Pasadena,Canada
+228,9/27/2020,Cucurbitaceae,Ibervillea tenuisecta (A. Gray) Small,36.1180248,137.9533657,Shiojiri,Japan
+229,11/15/2020,Boraginaceae,Cryptantha crassisepala (Torr. & A. Gray) Greene var. crassisepala,7.65611,123.39139,Guiniculalay,Philippines
+230,7/7/2021,Umbilicariaceae,Umbilicaria crustulosa (Ach.) Frey,18.5422768,99.0571089,Lamphun,Thailand
+231,10/15/2020,Scrophulariaceae,Agalinis auriculata (Michx.) S.F. Blake,57.1714821,26.7522536,Gulbene,Latvia
+232,1/16/2021,Combretaceae,Laguncularia racemosa (L.) C.F. Gaertn.,-7.1824754,108.0272646,Pangatikan,Indonesia
+233,11/5/2020,Apiaceae,Perideridia pringlei (J.M. Coult. & Rose) A. Nelson & J.F. Macbr.,41.3836182,-8.4170742,Delães,Portugal
+234,6/24/2021,Ulmaceae,Ulmus crassifolia Nutt.,-6.3323202,106.0316898,Kupahandap,Indonesia
+235,5/12/2021,Myrsinaceae,Embelia Burm. f.,9.2185369,41.1023814,Hīrna,Ethiopia
+236,7/24/2021,Poaceae,Brachypodium P. Beauv.,44.0264621,5.0852479,Carpentras,France
+237,5/5/2021,Lentibulariaceae,Utricularia simulans Pilg.,14.3213796,121.0737995,Butuan,Philippines
+238,10/25/2020,Brassicaceae,Lesquerella carinata Rollins var. carinata,43.6296613,39.705727,Vysokogornyy,Russia
+239,2/21/2021,Poaceae,Achnatherum brachychaetum (Godr.) Barkworth,13.3475852,121.8847222,Tiguion,Philippines
+240,4/21/2021,Catoscopiaceae,Catoscopium Brid.,40.7485192,-7.8032048,Cepões,Portugal
+241,9/23/2020,Brassicaceae,Braya thorild-wulffii Ostenf. ssp. glabrata J.G. Harris,57.6540663,59.5033087,Visim,Russia
+242,10/16/2020,Ericaceae,Vaccinium bracteatum Thunb.,38.8993417,-77.0091334,Washington,United States
+243,4/13/2021,Apiaceae,Cymopterus longipes S. Watson,-16.1328104,33.6063855,Tete,Mozambique
+244,9/27/2020,Poaceae,Puccinellia agrostidea T.J. Sørensen,48.103358,135.672144,Mukhen,Russia
+245,2/8/2021,Poaceae,Rostraria cristata (L.) Tzvelev,46.7251598,4.936847,Chalon-sur-Saône,France
+246,3/3/2021,Menispermaceae,Chondrodendron tomentosum Ruiz & Pav.,43.8507498,131.8648449,Novonikol’sk,Russia
+247,11/10/2020,Asteraceae,Onopordum L.,-17.1113356,-43.8203315,Bocaiúva,Brazil
+248,4/22/2021,Poaceae,Elymus scribneri (Vasey) M.E. Jones,8.0740824,-69.3041431,Puerto de Nutrias,Venezuela
+249,9/30/2020,Juncaceae,Juncus brevicaudatus (Engelm.) Fernald,19.7391764,-71.4447337,Villa Altagracia,Dominican Republic
+250,8/7/2021,Brassicaceae,Lepidium montanum Nutt. var. jonesii (Rydb.) C.L. Hitchc.,45.4693392,-73.4848038,Longueuil,Canada
+251,10/19/2020,Fabaceae,Lathyrus lanszwertii Kellogg var. brownii (Eastw.) Jeps.,24.660261,112.297428,Sanpai,China
+252,1/10/2021,Rosaceae,Prunus hortulana L.H. Bailey,50.2477455,-99.8375158,Minnedosa,Canada
+253,6/15/2021,Crassulaceae,Dudleya cymosa (Lem.) Britton & Rose ssp. pumila K.M. Nakai,29.866911,115.61166,Chengui,China
+254,7/18/2021,Fabaceae,Lupinus versicolor Lindl.,59.3138173,14.4937714,Karlskoga,Sweden
+255,11/13/2020,Mniaceae,Plagiomnium T. Kop.,43.7441795,2.511999,Marseille,France
+256,12/17/2020,Lichinaceae,Euopsis Nyl.,23.021478,113.121435,Fushan,China
+257,11/8/2020,Fontinalaceae,Fontinalis hypnoides Hartm. var. duriaei (Schimp.) Husn.,27.2578957,33.8116067,Hurghada,Egypt
+258,7/26/2021,Oleaceae,Forestiera segregata (Jacq.) Krug & Urb.,19.482042,-99.1985584,San Isidro,Mexico
+259,2/3/2021,Cyperaceae,Cyperus granitophilus McVaugh,6.313861,-76.13181,Urrao,Colombia
+260,9/29/2020,Rutaceae,Melicope macropus (Hillebr.) T.G. Hartley & B.C. Stone,51.386359,21.897405,Tomaszów Lubelski,Poland
+261,7/12/2021,Cyperaceae,Rhynchospora odorata C. Wright ex Griseb.,10.444021,-75.275171,Villanueva,Colombia
+262,4/4/2021,Lythraceae,Cuphea strigulosa Kunth,8.797145,-75.698571,San Carlos,Colombia
+263,6/12/2021,Fabaceae,Astragalus crassicarpus Nutt. var. cavus Barneby,26.053583,117.870803,Qitao,China
+264,4/7/2021,Vitaceae,Vitis monticola Buckley,11.5478704,-1.768487,Sapouy,Burkina Faso
+265,12/24/2020,Poaceae,Bromus hordeaceus L.,36.284107,100.620031,Gonghe,China
+266,7/8/2021,Brassicaceae,Smelowskia borealis (Greene) Drury & Rollins var. villosa Drury & Rollins,59.538889,29.9194439,Voyskovitsy,Russia
+267,1/28/2021,Malvaceae,Sphaeralcea incana Torr. ex A. Gray,-18.7602306,47.5620739,Ambohitseheno,Madagascar
+268,9/25/2020,Rubiaceae,Antirhea coriacea (Vahl) Urb.,57.3190981,14.5999796,Sävsjö,Sweden
+269,6/29/2021,Asteraceae,Helianthus anomalus S.F. Blake,30.334768,106.93038,Linshui,China
+270,4/8/2021,Myrtaceae,Melaleuca cajuputi Powell,41.88,-87.62,Chicago,United States
+271,9/28/2020,Solanaceae,Physalis mollis Nutt. var. variovestita (Waterf.) J.R. Sullivan,-32.9413658,-60.652833,San Lorenzo,Argentina
+272,9/10/2021,Cuscutaceae,Cuscuta compacta Juss. ex Choisy,14.4833291,-89.0023961,La Labor,Honduras
+273,3/12/2021,Lamiaceae,Salvia officinalis L.,-7.2526036,108.4543113,Margaharja,Indonesia
+274,1/22/2021,Fabaceae,Gliricidia sepium (Jacq.) Kunth ex Walp.,8.9779832,1.1448981,Sokodé,Togo
+275,7/3/2021,Portulacaceae,Montia parvifolia (Moc. ex DC.) Greene ssp. parvifolia,49.4875115,16.6599761,Boskovice,Czech Republic
+276,10/16/2020,Cactaceae,Cylindropuntia imbricata (Haw.) F.M. Knuth,44.4528239,19.0902035,Petkovci,Bosnia and Herzegovina
+277,2/23/2021,Asteraceae,Hartwrightia A. Gray ex S. Watson,-8.1545561,113.1981987,Kebonsari Kidul,Indonesia
+278,8/11/2021,Poaceae,Echinochloa pyramidalis (Lam.) Hitchc. & Chase,4.5943745,-74.0740729,Candelaria,Colombia
+279,9/11/2021,Asteraceae,Tridax procumbens L.,40.4583824,-8.8018715,Praia de Mira,Portugal
+280,7/6/2021,Krameriaceae,Krameria erecta Willd. ex Schult.,52.7634482,26.4275001,Hantsavichy,Belarus
+281,5/27/2021,Aquifoliaceae,Ilex L.,43.7441795,2.511999,Marseille,France
+282,8/22/2021,Poaceae,Brachypodium sylvaticum (Huds.) P. Beauv.,21.2045417,72.839054,R S,India
+283,5/12/2021,Scrophulariaceae,Odontites Ludwig,41.714914,123.449714,Dongling,China
+284,6/13/2021,Asteraceae,Eriophyllum multicaule (DC.) A. Gray,40.2023282,116.2398367,Dinghuo,China
+285,8/10/2021,Pyrolaceae,Chimaphila menziesii (R. Br. ex D. Don) Spreng.,38.683925,-27.27226,Terra Chã,Portugal
+286,12/11/2020,Solanaceae,Solanum rostratum Dunal,34.8383901,137.0770574,Ōnojō,Japan
+287,3/16/2021,Onagraceae,Gayophytum racemosum Torr. & A. Gray,56.3690033,38.5829669,Strunino,Russia
+288,12/23/2020,Scrophulariaceae,Penstemon tubaeflorus Nutt. var. achoreus Fernald,31.199997,121.461114,Hehu,China
+289,6/5/2021,Asteraceae,Dubautia ×montana (H. Mann) D.D. Keck (pro sp.),36.400577,106.744204,Chedao,China
+290,4/9/2021,Brassicaceae,Lunaria rediviva L.,27.358123,110.514837,Tangchijie,China
+291,10/1/2020,Aspleniaceae,Asplenium ×boydstoniae (Walter) Short,-0.572629,30.41563,Kibingo,Uganda
+292,8/9/2021,Primulaceae,Dodecatheon alpinum (A. Gray) Greene ssp. majus H.J. Thomp.,25.9813294,-100.4490239,Los Angeles,Mexico
+293,1/8/2021,Fabaceae,Astragalus mohavensis S. Watson,49.9164727,18.1627822,Kozmice,Czech Republic
+294,11/19/2020,Pyrenulaceae,Pyrenula rubrostoma R.C. Harris,-3.5451284,36.1029284,Makuyuni,Tanzania
+295,1/25/2021,Asteraceae,Acourtia runcinata (Lag. ex D. Don) B.L. Turner,24.64995,116.156645,Changtan,China
+296,8/12/2021,Brassicaceae,Cakile edentula (Bigelow) Hook. ssp. edentula var. lacustris Fernald,45.477613,124.47553,Damiao,China
+297,9/14/2020,Lycopodiaceae,Lycopodium lagopus (Laest. ex Hartm.) Zinserl. ex Kuzen,41.6865621,-8.7534535,Vila Franca,Portugal
+298,12/18/2020,Uncertain Ascomycota Family,Thamnolia vermicularis (Sw.) Ach. ex Schaerer,7.0727574,100.4059456,Bang Klam,Thailand
+299,5/25/2021,Physciaceae,Phaeophyscia kairamoi (Vain.) Moberg,-7.2841,108.2148,Rajapeni,Indonesia
+300,11/11/2020,Cactaceae,Sclerocactus parviflorus Clover & Jotter ssp. havasupaiensis (Clover) F. Hochstätter,30.572815,104.066801,Chenhu,China
+301,4/18/2021,Alectoriaceae,Alectoria vancouverensis (Gyel.) Gyel. ex Brodo & D. Hawksw.,31.2660017,70.8743691,Wārāh,Pakistan
+302,9/22/2020,Cyperaceae,Schoenus tendo Banks & Sol. ex Hook. f.,2.481207,-76.6990172,Popayán,Colombia
+303,12/23/2020,Caryophyllaceae,Minuartia pusilla (S. Watson) Mattf.,16.7726174,-93.1905192,Plan de Ayala,Mexico
+304,5/13/2021,Brassicaceae,Rorippa amphibia (L.) Besser,53.3687505,36.6234912,Spasskoye-Lutovinovo,Russia
+305,9/13/2021,Ranunculaceae,Delphinium sutherlandii Warnock,35.20105,-91.8318333,Hernando,Argentina
+306,1/21/2021,Fabaceae,Trifolium oliganthum Steud.,-8.0806,111.7084,Sokobanteng,Indonesia
+307,3/27/2021,Poaceae,Triticum aestivum L.,-31.7387876,-65.004236,Villa de Soto,Argentina
+308,6/3/2021,Brassicaceae,Thelypodium wrightii A. Gray ssp. oklahomense Al-Shehbaz,-8.727652,122.2483726,Hokor,Indonesia
+309,11/14/2020,Fabaceae,Oxytropis arctica R. Br. var. koyukukensis (A.E. Porsild) S.L. Welsh,14.9614897,120.8355408,Balucuc,Philippines
+310,10/1/2020,Hydrophyllaceae,Nemophila parviflora Douglas ex Benth.,29.29389,90.98708,Konggar,China
+311,6/21/2021,Ranunculaceae,Anemone berlandieri Pritz.,38.0491517,24.3217397,Marmárion,Greece
+312,4/13/2021,Moraceae,Ficus trigonata L.,64.2617939,16.4152338,Dorotea,Sweden
+313,7/24/2021,Asteraceae,Eriophyllum mohavense (I.M. Johnst.) Jeps.,53.2622714,17.2557665,Łobżenica,Poland
+314,2/2/2021,Aloaceae,Aloe ×schoenlandi Baker,57.3937216,21.5647066,Ventspils,Latvia
+315,2/16/2021,Cuscutaceae,Cuscuta mitriformis Engelm.,38.579965,-28.618829,Pedro Miguel,Portugal
+316,12/20/2020,Viscaceae,Arceuthobium tsugense (Rosend.) G.N. Jones ssp. mertensianae Hawksw. & Nickrent,-18.7,47.683333,Ambohitrolomahitsy,Madagascar
+317,3/8/2021,Cucurbitaceae,Marah Kellogg,15.6576354,-85.9968479,Tocoa,Honduras
+318,5/4/2021,Asteraceae,Balsamorhiza hookeri (Hook.) Nutt. var. hirsuta (Nutt.) A. Nelson,18.5591814,-99.5982999,Vicente Guerrero,Mexico
+319,8/12/2021,Lamiaceae,Monarda fruticulosa Epling,49.0998215,17.757483,Luhačovice,Czech Republic
+320,3/30/2021,Apiaceae,Zizia trifoliata (Michx.) Fernald,29.461194,110.152436,Zhujiatai,China
+321,11/24/2020,Malvaceae,Sidalcea diploscypha (Torr. & A. Gray) A. Gray,60.6755434,17.14035,Gävle,Sweden
+322,5/13/2021,Cactaceae,Opuntia turbinata Small,41.9986907,21.4874715,Čair,Macedonia
+323,8/31/2021,Crassulaceae,Sedum radiatum S. Watson ssp. ciliosum (Howell) R.T. Clausen,36.650038,101.766228,Chengbei,China
+324,2/18/2021,Boraginaceae,Tiquilia canescens (DC.) A.T. Richardson,-8.4879,115.1696,Kuwumkumambal,Indonesia
+325,2/5/2021,Caryophyllaceae,Minuartia yukonensis Hultén,52.2871973,21.2810466,Zielonka,Poland
+326,11/9/2020,Asteraceae,Packera cana (Hook.) W.A. Weber & Á. Löve,43.247343,0.06251,Tarbes,France
+327,6/9/2021,Parmeliaceae,Parmelinopsis minarum (Vain.) Elix & Hale,-8.498277,115.0550008,Megati Kelod,Indonesia
+328,1/4/2021,Moraceae,Artocarpus tamaran Becc.,-23.749953,-46.39769,Rio Grande da Serra,Brazil
+329,9/16/2020,Olacaceae,Schoepfia arenaria Britton,10.5353285,107.4055814,Thị Trấn Phước Bửu,Vietnam
+330,10/21/2020,Euphorbiaceae,Euphorbia epithymoides L.,47.2952721,39.8734276,Pavlovskaya,Russia
+331,8/9/2021,Poaceae,Puccinellia kamtschatica Holmb.,50.3411289,16.0079822,Šestajovice,Czech Republic
+332,9/10/2021,Cyatheaceae,Cnemidaria C. Presl,49.373136,16.2794136,Ostrov,Czech Republic
+333,1/4/2021,Poaceae,Danthonia sericea Nutt.,1.8372299,73.5049293,Fonadhoo,Maldives
+334,9/3/2021,Anacardiaceae,Mangifera odorata Griffith,8.6450352,10.7718025,Mutum Biyu,Nigeria
+335,7/5/2021,Cyperaceae,Cyperus fuscus L.,-2.2661571,138.0109374,Kasonawejo,Indonesia
+336,2/9/2021,Asteraceae,Taraxacum F.H. Wigg.,44.4466286,18.6510559,Živinice,Bosnia and Herzegovina
+337,1/9/2021,Cyperaceae,Rhynchospora leptocarpa (Chapm. ex Britton) Small,52.5187305,15.2372386,Lubniewice,Poland
+338,10/21/2020,Lecythidaceae,Barringtonia J.R. Forst. & G. Forst.,23.385158,113.404729,Zhongluotan,China
+339,1/28/2021,Iridaceae,Sisyrinchium campestre E.P. Bicknell,6.68444,125.3525,Guihing Proper,Philippines
+340,10/24/2020,Brassicaceae,Streptanthus hyacinthoides Hook.,6.1071457,-3.8553507,Adzopé,Ivory Coast
+341,4/16/2021,Polemoniaceae,Gilia ophthalmoides Brand,-6.8364154,111.1980575,Mencon,Indonesia
+342,8/22/2021,Rosaceae,Potentilla diversifolia Lehm. var. perdissecta (Rydb.) C.L. Hitchc.,41.28932,111.206475,Bulianhe,China
+343,6/30/2021,Asteraceae,Bidens lemmonii A. Gray,29.859178,106.410852,Beiwenquan,China
+344,4/14/2021,Araceae,Caladium bicolor (Aiton) Vent.,45.457057,28.2888529,Reni,Ukraine
+345,10/11/2020,Asteraceae,Hazardia cana (A. Gray) Greene,-2.4655425,140.4101474,Depapre,Indonesia
+346,4/27/2021,Lamiaceae,Ocimum L.,24.7204697,118.6154322,Wanjia,China
+347,8/1/2021,Asteraceae,Madia citrigracilis D.D. Keck,-33.0482707,-71.4408752,Quilpué,Chile
+348,10/28/2020,Mniaceae,Rhizomnium (Broth.) T. Kop.,37.0364358,45.0971372,Oshnavīyeh,Iran
+349,10/3/2020,Hypnaceae,Hypnum pallescens (Hedw.) P. Beauv.,32.993106,97.008784,Yushu,China
+350,6/23/2021,Lecanoraceae,Lecidella effugiens (Nilson) Knoph & Hertel,-6.9757055,111.8270486,Nguluhan,Indonesia
+351,2/18/2021,Collemataceae,Leptogium hypotrachynum Müll. Arg.,2.9182648,101.6982899,Putrajaya,Malaysia
+352,5/16/2021,Poaceae,Pennisetum macrourum Trin.,50.8866749,21.2296066,Waśniów,Poland
+353,1/11/2021,Physciaceae,Rinodina cinereovirens (Vain.) Vain.,27.915008,112.52667,Haoraoshan,China
+354,6/18/2021,Ericaceae,Vaccinium ovalifolium Sm.,48.9194633,2.2987001,Gennevilliers,France
+355,2/10/2021,Rubiaceae,Galium hypotrichium A. Gray ssp. inyoense Dempster & Ehrend.,33.47,-111.92,Scottsdale,United States
+356,4/22/2021,Cactaceae,Echinocereus ×roetteri (Engelm.) Rümpler,34.488516,108.423318,Liquan Chengguanzhen,China
+357,12/14/2020,Fabaceae,Desmodium procumbens (Mill.) Hitchc. var. exiguum (A. Gray) B.G. Schub.,30.335237,112.239631,Jingzhou,China
+358,7/3/2021,Asclepiadaceae,Asclepias erosa Torr.,28.425613,109.56834,Dongmaku,China
+359,12/24/2020,Poaceae,Paspalum dissectum (L.) L.,-19.1097385,-51.736543,Cassilândia,Brazil
+360,9/3/2021,Poaceae,Hierochloe occidentalis Buckley,39.0407357,117.6398107,Yujin,China
+361,4/9/2021,Polemoniaceae,Leptosiphon aureus (Nutt.) J.M. Porter & L.A. Johnson ssp. decorus (A. Gray) J.M. Porter & L.A. Johnson,59.7388394,10.1603397,Drammen,Norway
+362,9/19/2020,Chenopodiaceae,Suckleya suckleyana (Torr.) Rydb.,39.8286146,69.5320824,Isfana,Kyrgyzstan
+363,1/10/2021,Gentianaceae,Gentiana saponaria L. var. latidens House,50.2804989,127.5159741,Blagoveshchensk,Russia
+364,9/10/2021,Betulaceae,Alnus incana (L.) Moench ssp. rugosa (Du Roi) R.T. Clausen,28.753497,105.888827,Hutou,China
+365,10/4/2020,Verrucariaceae,Dermatocarpon arnoldianum Degel.,49.2630058,5.9291577,Briey,France
+366,8/11/2021,Peltigeraceae,Peltigera kristinssonii Vitik.,-8.3635208,123.0085415,Wailebe,Indonesia
+367,10/25/2020,Hydrophyllaceae,Phacelia integrifolia Torr.,6.9280156,79.8908308,Battaramulla South,Sri Lanka
+368,12/12/2020,Rhamnaceae,Rhamnus japonica Maxim.,-8.113,113.8437,Krajan Sumberanget,Indonesia
+369,9/17/2020,Acarosporaceae,Strangospora ochrophora (Nyl.) R. Anderson,30.641073,118.315476,Dingjiaqiao,China
+370,12/12/2020,Fabaceae,Pterocarpus soyauxii Taubert,30.554299,114.316513,Wukang,China
+371,5/25/2021,Liliaceae,Allium schoenoprasum L. var. schoenoprasum,-11.3442564,-75.5655147,Palca,Peru
+372,5/1/2021,Asteraceae,Kyhosia bolanderi (A. Gray) B.G. Baldw.,-26.4820262,31.3484448,Kwaluseni,Swaziland
+373,11/5/2020,Asteraceae,Tragopogon L.,40.6563419,70.3658273,Shaydon,Tajikistan
+374,7/28/2021,Cuscutaceae,Cuscuta gronovii Willd. ex Schult. var. gronovii,35.0523717,35.9914384,Al Qamşīyah,Syria
+375,2/13/2021,Teloschistaceae,Xanthoria (Fr.) Th. Fr.,45.79817,109.31826,Tsagaandörvölj,Mongolia
+376,5/14/2021,Capparaceae,Polanisia Raf.,54.5728766,20.1764433,Ladushkin,Russia
+377,5/8/2021,Poaceae,Phyllostachys vivax McClure,30.134451,114.829374,Jinshandian,China
+378,5/21/2021,Fabaceae,Astragalus cobrensis A. Gray,8.4430125,-82.3777335,Las Lomas,Panama
+379,2/23/2021,Dryopteridaceae,Dryopteris carthusiana (Vill.) H.P. Fuchs,41.2899133,-96.0996978,Omaha,United States
+380,5/9/2021,Hydrophyllaceae,Phacelia barnebyana J.T. Howell,17.3026058,-62.7176924,Basseterre,Saint Kitts and Nevis
+381,7/18/2021,Asteraceae,Senecio integerrimus Nutt. var. exaltatus (Nutt.) Cronquist,56.4797638,57.7301714,Sarana,Russia
+382,2/1/2021,Geraniaceae,Pelargonium zonale (L.) L'Hér. ex Aiton,52.6424878,20.9312946,Winnica,Poland
+383,3/4/2021,Asteraceae,Thelesperma pubescens Dorn,48.7438842,-0.5692441,Flers,France
+384,1/7/2021,Grossulariaceae,Ribes diacanthum Pall.,1.0620859,104.2366983,Lebahseri,Indonesia
+385,3/26/2021,Rosaceae,Crataegus douglasii Lindl.,-23.2980974,-50.0726882,Santo Antônio da Platina,Brazil
+386,2/20/2021,Fabaceae,Astragalus calycosus Torr. ex S. Watson var. scaposus (A. Gray) M.E. Jones,33.7356633,130.7183918,Nōgata,Japan
+387,4/24/2021,Ophioglossaceae,Botrychium yaaxudakeit Stensvold & Farrar,0.965759,31.7195459,Kiboga,Uganda
+388,12/25/2020,Cistaceae,Lechea pulchella Raf. var. pulchella,32.809026,110.112629,Baihe,China
+389,12/24/2020,Caliciaceae,Thelomma carolinianum (Tuck.) Tibell,28.365818,121.061097,Yangdang,China
+390,10/29/2020,Solanaceae,Solanum L.,34.727798,109.264659,Antou,China
+391,1/21/2021,Asteraceae,Marshallia legrandii Weakley,26.629211,101.266195,Huaping,China
+392,11/4/2020,Scrophulariaceae,Pedicularis furbishiae S. Watson,56.1085807,44.4955531,Pamyat’ Parizhskoy Kommuny,Russia
+393,5/29/2021,Lichinaceae,Ephebe solida Bornet,-7.0431437,111.3679689,Banjarjo,Indonesia
+394,3/24/2021,Melastomataceae,Henriettea squamulosum (Cogn.) W.S. Judd,11.9227104,37.6998424,Werota,Ethiopia
+395,12/22/2020,Asteraceae,Arnica ×diversifolia Greene (pro sp.),30.837881,114.13334,Minji,China
+396,4/23/2021,Asteraceae,Pericallis Webb,11.0915371,-6.8914024,Kolondiéba,Mali
+397,12/11/2020,Arthoniaceae,Arthonia perminuta Willey,57.8352611,61.6978774,Alapayevsk,Russia
+398,8/9/2021,Candelariaceae,Candelina Poelt,46.9063815,102.7636515,Hujirt,Mongolia
+399,9/18/2020,Seligeriaceae,Seligeria careyana Vitt & Schof.,39.928353,116.416357,Dongchen,China
+400,3/22/2021,Fabaceae,Lupinus suksdorfii B.L. Rob.,49.7219212,18.188717,Stará Ves nad Ondřejnicí,Czech Republic
+401,10/18/2020,Poaceae,Elymus virginicus L.,10.5388499,6.4356937,Kusheriki,Nigeria
+402,8/20/2021,Poaceae,Phyllostachys edulis (Carrière) J. Houz.,9.5713437,105.4495395,Thị Trấn Ngan Dừa,Vietnam
+403,11/6/2020,Ranunculaceae,Aconitum napellus L.,3.1121428,101.6935065,Melaka,Malaysia
+404,8/10/2021,Boraginaceae,Mertensia humilis Rydb.,-8.77212,116.87932,Muraloka,Indonesia
+405,4/30/2021,Asteraceae,Schkuhria anthemoidea (DC.) J.M. Coult. var. wrightii (A. Gray) Heiser,-34.6906944,-58.601544,La Paz,Argentina
+406,4/7/2021,Caryophyllaceae,Corrigiola L.,8.4430125,-82.3777335,Las Lomas,Panama
+407,8/26/2021,Asteraceae,Shinnersoseris S. Tomb,54.982808,73.328393,Zarechnyy,Russia
+408,1/1/2021,Rosaceae,Rubus bartonianus M. Peck,34.746611,113.625328,Zhangzhu,China
+409,8/16/2021,Myrtaceae,Leptospermum scoparium J.R. Forst. & G. Forst.,38.135288,114.397004,Dahe,China
+410,6/3/2021,Saxifragaceae,Heuchera glabra Willd. ex Roem. & Schult.,16.2426241,101.9348069,Kaset Sombun,Thailand
+411,5/22/2021,Asteraceae,Hieracium scouleri Hook. var. scouleri,45.089753,-64.3623382,Wolfville,Canada
+412,2/15/2021,Caryophyllaceae,Minuartia michauxii (Fenzl) Farw. var. texana (B.L. Rob.) Mattf.,19.4052965,-99.1504583,Buenos Aires,Mexico
+413,12/3/2020,Polemoniaceae,Polemonium brandegeei (A. Gray) Greene,53.3122864,-6.336393,Greenhills,Ireland
+414,9/29/2020,Betulaceae,Betula ×eastwoodiae Sarg. (pro sp.),-6.7515973,107.9287898,Bangbayang Kaler,Indonesia
+415,2/6/2021,Asteraceae,Artemisia bigelovii A. Gray,23.12468,113.3612,Tianhu,China
+416,8/21/2021,Trypetheliaceae,Astrothelium galbineum Krempelh.,-22.4803601,-46.633882,Águas de Lindóia,Brazil
+417,1/15/2021,Ericaceae,Rhododendron flammeum (Michx.) Sarg.,33.4996213,126.5311884,Jeju-si,South Korea
+418,4/11/2021,Asteraceae,Solidago rupestris Raf.,-4.9295129,-80.3408061,Tambo Grande,Peru
+419,3/23/2021,Onagraceae,Gaura drummondii (Spach) Torr. & A. Gray,39.975999,116.317558,Huangzhuang,China
+420,11/27/2020,Verbenaceae,Verbena officinalis L. var. prostrata Gren. & Godr.,39.4365442,-9.2134149,Foz do Arelho,Portugal
+421,11/3/2020,Rosaceae,Rosa villosa L.,-34.6269535,-58.4058228,Villa Constitución,Argentina
+422,11/17/2020,Hydrophyllaceae,Phacelia ixodes Kellogg,39.1365314,20.9594987,Kostakioí,Greece
+423,12/22/2020,Verrucariaceae,Verrucaria fuscella (Turner) Winch,34.4274119,62.215754,Injīl,Afghanistan
+424,2/26/2021,Fabaceae,Daniellia oliveri (Rolfe) Hutch. & Dalziel,41.2290466,24.8816753,Smínthi,Greece
+425,3/7/2021,Hydrophyllaceae,Phacelia corymbosa Jeps.,-6.9560364,107.4135643,Warungawi,Indonesia
+426,2/10/2021,Araceae,Zantedeschia aethiopica (L.) Spreng.,43.247343,0.06251,Tarbes,France
+427,4/14/2021,Poaceae,Diarrhena americana P. Beauv.,46.6522568,33.3646929,Chornyanka,Ukraine
+428,11/16/2020,Pottiaceae,Pleurochaete Lindb.,61.9952327,-6.8028472,Argir,Faroe Islands
+429,7/1/2021,Simaroubaceae,Alvaradoa amorphoides Liebm.,29.201587,111.755127,Dalongzhan,China
+430,4/21/2021,Liliaceae,Androstephium Torr.,50.1659651,16.2776842,Rychnov nad Kněžnou,Czech Republic
+431,3/13/2021,Asteraceae,Grindelia grandiflora Hook.,-8.4175693,113.6799766,Curahnongko,Indonesia
+432,11/27/2020,Ditrichaceae,Pleuridium sullivantii Austin,-6.1513815,106.8915008,Girsereng,Indonesia
+433,5/31/2021,Myrsinaceae,Myrsine lanaiensis Hillebr.,3.1166667,172.8,Makin Village,Kiribati
+434,2/11/2021,Asteraceae,Dimorphotheca pluvialis (L.) Moench,14.6329018,-90.9259787,Patzicía,Guatemala
+435,4/3/2021,Fabaceae,Parkinsonia texana (A. Gray) S. Watson var. texana,55.1536343,72.6937323,Lyubinskiy,Russia
+436,1/12/2021,Pottiaceae,Pottia arizonica Wareh. var. arizonica,42.5530523,70.0024837,Sastöbe,Kazakhstan
+437,5/19/2021,Orchidaceae,Platanthera holochila (Hillebr.) Kraenzlin,39.7887592,-8.0603988,Portela,Portugal
+438,1/13/2021,Orchidaceae,Cypripedium parviflorum Salisb. var. makasin (Farw.) Sheviak,22.517585,113.39277,Hongshan,China
+439,11/23/2020,Meesiaceae,Meesia uliginosa Hedw.,23.02299,113.1039,Shiwan,China
+440,10/31/2020,Lamiaceae,Monardella palmeri A. Gray,40.8321934,40.0092505,Merkezköy,Turkey
+441,7/27/2021,Asteraceae,Xylorhiza tortifolia (Torr. & A. Gray) Greene var. imberbis (Cronquist) T.J. Watson,51.287518,27.2018656,Rokytne,Ukraine
+442,5/30/2021,Caprifoliaceae,Lonicera ruprechtiana Regel,8.8232057,-69.9982093,Veguitas,Venezuela
+443,12/7/2020,Caprifoliaceae,Lonicera pileata Oliv.,15.1585322,120.6299566,Ungca,Philippines
+444,2/11/2021,Gentianaceae,Eustoma exaltatum (L.) Salisb. ex G. Don,14.048167,122.955697,Basud,Philippines
+445,6/3/2021,Liliaceae,Trillium luteum (Muhl.) Harbison,-21.9221397,-50.7317774,Bastos,Brazil
+446,11/17/2020,Rhamnaceae,Rhamnus arguta Maxim. var. velutina Hand.-Maz.,24.410255,117.416058,Wenfeng Zhen,China
+447,12/27/2020,Asteraceae,Liatris densispicata (Bush) Gaiser var. interrupta Gaiser,45.7608815,4.26286,Pantin,France
+448,10/10/2020,Poaceae,Hordeum brachyantherum Nevski ssp. brachyantherum,47.009324,28.8389611,Chiţcani,Moldova
+449,11/27/2020,Dryopteridaceae,Cyrtomium C. Presl,42.3745311,-88.1263369,Milwaukee,United States
+450,11/6/2020,Scrophulariaceae,Pedicularis parviflora Sm. ex Rees ssp. pennellii (Hultén) Hultén,56.3448609,25.5603229,Viesīte,Latvia
+451,8/2/2021,Poaceae,Avenula (Dumort.) Dumort.,54.8095591,38.2516419,Kashira,Russia
+452,1/17/2021,Parmeliaceae,Xanthoparmelia plittii (Gyel.) Hale,45.156512,1.0154129,Périgueux,France
+453,2/21/2021,Ranunculaceae,Anemone narcissiflora L. var. monantha DC.,-1.7232202,105.471249,Mislak,Indonesia
+454,6/6/2021,Asteraceae,Sericocarpus oregonensis Nutt. var. oregonensis,60.3763373,25.2708919,Nickby,Finland
+455,6/14/2021,Cistaceae,Helianthemum Mill.,53.5313317,43.6704377,Nizhniy Lomov,Russia
+456,7/3/2021,Liliaceae,Allium sanbornii Alph. Wood var. sanbornii,22.529403,103.93935,Hekou,China
+457,12/26/2020,Thelypteridaceae,Pneumatopteris Nakai,35.490701,112.851831,Jincheng,China
+458,5/28/2021,Scrophulariaceae,Chaenorhinum minus (L.) Lange,49.6669762,25.7723085,Zbarazh,Ukraine
+459,10/16/2020,Fabaceae,Cajanus scarabaeoides (L.) Thouars,35.1678934,47.8038272,Qorveh,Iran
+460,11/27/2020,Linaceae,Linum rupestre (A. Gray) Engelm. ex A. Gray,49.0194225,2.4613377,Goussainville,France
+461,12/10/2020,Pinaceae,Pinus brutia Ten. var. eldarica (Medw.) Silba,50.5878419,13.8083154,Hostomice,Czech Republic
+462,3/25/2021,Cladoniaceae,Cladonia cervicornis (Ach.) Flotow,45.6838431,28.6143107,Bolhrad,Ukraine
+463,3/20/2021,Brachytheciaceae,Bryoandersonia illecebra (Hedw.) H. Rob.,45.9769612,15.0909889,Šentrupert,Slovenia
+464,2/21/2021,Rosaceae,Spiraea splendens Baumann ex K. Koch var. splendens,39.55944,21.84083,Megalochórion,Greece
+465,8/26/2021,Fabaceae,Acacia rehmanniana Schinz,-15.0418557,-70.3673152,Pucara,Peru
+466,7/4/2021,Boraginaceae,Myosotis sylvatica Ehrh.,43.2625974,23.6556259,Vratsa,Bulgaria
+467,9/17/2020,Apocynaceae,Haplophyton crooksii (L.D. Benson) L.D. Benson,50.3901526,106.1051454,Naushki,Russia
+468,12/2/2020,Ranunculaceae,Anemone parviflora Michx. var. grandiflora Ulbr.,48.5412136,22.5089067,Serednye,Ukraine
+469,12/7/2020,Sterculiaceae,Kleinhovia hospita L.,33.7226749,59.1788204,Qā’en,Iran
+470,5/12/2021,Polygonaceae,Eriogonum jamesii Benth. var. wootonii Reveal,50.322121,16.2852974,Dobřany,Czech Republic
+471,2/28/2021,Sarraceniaceae,Sarracenia ×ahlesii C.R. Bell & Case,35.6478877,117.2786906,Yinla,China
+472,8/6/2021,Collemataceae,Leptogium burgessii (L.) Mont.,36.0268006,-83.7942551,Knoxville,United States
+473,6/18/2021,Malvaceae,Hibiscus waimeae A. Heller ssp. waimeae,49.9354529,18.9773045,Goczałkowice Zdrój,Poland
+474,1/6/2021,Clusiaceae,Mammea L.,60.3428116,30.4896784,Garbolovo,Russia
+475,10/21/2020,Boraginaceae,Mertensia paniculata (Aiton) G. Don var. eastwoodiae (J.F. Macbr.) Hultén,19.8512387,105.5708865,Thị Trấn Triệu Sơn,Vietnam
+476,8/23/2021,Bignoniaceae,Macfadyena unguis-cati (L.) A.H. Gentry,37.78,-122.42,San Francisco,United States
+477,10/26/2020,Rubiaceae,Lucya tetrandra (L.) K. Schum.,16.597659,120.493376,Dagup,Philippines
+478,3/10/2021,Betulaceae,Corylus heterophylla Fisch. ex Trautv.,4.5791946,13.6767958,Bertoua,Cameroon
+479,6/5/2021,Saxifragaceae,Heuchera rubescens Torr. var. alpicola Jeps.,-7.2457269,112.3738772,Kedungbulu,Indonesia
+480,10/17/2020,Menispermaceae,Cocculus diversifolius DC.,-13.2583689,-72.2642679,Lahuaytambo,Peru
+481,12/19/2020,Cactaceae,Sclerocactus parviflorus Clover & Jotter ssp. terrae-canyonae (K.D. Heil) K.D. Heil & J.M. Porter,7.5617699,125.6532848,Kinamayan,Philippines
+482,4/15/2021,Rutaceae,Zanthoxylum fagara (L.) Sarg.,10.4704517,-66.7992646,Petare,Venezuela
+483,9/24/2020,Poaceae,Festuca campestris Rydb.,44.2480359,20.6848641,Topola,Serbia
+484,4/29/2021,Juncaceae,Juncus compressus Jacq.,-32.3385963,-53.4770359,Jaguarão,Brazil
+485,9/15/2020,Orthotrichaceae,Orthotrichum affine Brid.,60.1512028,15.1735854,Ludvika,Sweden
+486,5/13/2021,Fabaceae,Haematoxylum L.,8.881634,-79.8268729,Potrero Grande,Panama
+487,1/28/2021,Euphorbiaceae,Euphorbia cyparissias L.,-6.7306,111.388,Ngangpo,Indonesia
+488,11/22/2020,Acanthaceae,Ruellia drummondiana (Nees) A. Gray,44.9856696,19.2988999,Višnjićevo,Serbia
+489,1/20/2021,Scrophulariaceae,Bacopa Aubl.,-6.6876798,111.4782661,Kajar,Indonesia
+490,7/20/2021,Caryophyllaceae,Stellaria ciliatosepala Trautv.,-6.562,105.9917,Kukuluk,Indonesia
+491,1/31/2021,Apiaceae,Musineon vaginatum Rydb.,34.859175,40.6016766,Subaykhān,Syria
+492,9/2/2021,Poaceae,Setaria setosa (Sw.) P. Beauv. var. leiophylla (Nees) Arechav.,12.3181444,-2.4653598,Réo,Burkina Faso
+493,10/1/2020,Liliaceae,Camassia quamash (Pursh) Greene,-6.3943,105.9495,Bongbong,Indonesia
+494,11/29/2020,Polygonaceae,Eriogonum corymbosum Benth. var. aureum (M.E. Jones) Reveal,40.5463267,22.2682863,Diavatós,Greece
+495,4/1/2021,Asteraceae,Bidens tenuisecta A. Gray,57.2702863,16.4538847,Oskarshamn,Sweden
+496,10/12/2020,Calymperaceae,Calymperes afzelii Sw.,-7.5231833,-77.9710098,Lluchubamba,Peru
+497,10/16/2020,Arthoniaceae,Arthonia pyrrhuliza Nyl.,49.9936338,20.0199888,Ochota,Poland
+498,3/1/2021,Fabaceae,Astragalus cremnophylax Barneby var. hevronii Barneby,30.914922,118.334359,Nanling,China
+499,5/27/2021,Chenopodiaceae,Chenopodium capitatum (L.) Asch.,57.7313899,12.9130426,Borås,Sweden
+500,2/17/2021,Primulaceae,Primula laurentiana Fernald,59.3586958,17.9687559,Sundbyberg,Sweden
+501,5/5/2021,Fabaceae,Oxytropis borealis DC.,53.0172422,19.6212916,Skrwilno,Poland
+502,7/28/2021,Strigulaceae,Strigula nitidula Mont.,24.9372186,118.6422409,Huaqiao,China
+503,6/18/2021,Cucurbitaceae,Marah fabaceus (Naud.) Naud. ex Greene,-26.2304116,-65.2825779,Trancas,Argentina
+504,11/29/2020,Oleaceae,Fraxinus uhdei (Wenzig) Lingelsh.,49.7503184,15.3480679,Hroznětín,Czech Republic
+505,5/17/2021,Euphorbiaceae,Argythamnia P. Br.,52.13342,-113.8687,Penhold,Canada
+506,10/25/2020,Dicranaceae,Dicranum undulatum Brid.,-8.8899,121.2806,Maunuri,Indonesia
+507,3/7/2021,Papaveraceae,Papaver alboroseum Hultén,-7.8307181,110.6338382,Puncaktugu,Indonesia
+508,11/27/2020,Salicaceae,Salix lucida Muhl. ssp. caudata (Nutt.) A.E. Murray,-0.8761629,131.255828,Sorong,Indonesia
+509,3/18/2021,Fagaceae,Quercus pungens Liebm.,46.639171,32.5037186,Komyshany,Ukraine
+510,4/11/2021,Malvaceae,Malachra radiata L.,44.0300904,43.1270513,Pyatigorsk,Russia
+511,6/13/2021,Fabaceae,Lathyrus polymorphus Nutt. ssp. incanus (J.G. Sm. & Rydb.) C.L. Hitchc.,6.477755,-74.4088,Puerto Berrío,Colombia
+512,5/31/2021,Apiaceae,Apium repens (Jacq.) Lag.,13.0742447,101.0084698,Ban Talat Bueng,Thailand
+513,12/26/2020,Fabaceae,Codariocalyx Hassk.,20.007968,110.293561,Xiuying,China
+514,11/18/2020,Berberidaceae,Caulophyllum thalictroides (L.) Michx.,16.1672432,44.7791562,Al Ḩazm,Yemen
+515,8/13/2021,Sapotaceae,Sapota Mill.,31.238854,121.331694,Jiangqiao,China
+516,1/29/2021,Physciaceae,Buellia catasema (Tuck.) Tuck.,-8.4627496,-35.0828588,Ipojuca,Brazil
+517,1/25/2021,Juglandaceae,Juglans L.,-9.906,124.5313,Oefau,Indonesia
+518,8/16/2021,Poaceae,Coix L.,36.12944,127.1,Yŏnmu,South Korea
+519,8/12/2021,Simaroubaceae,Simarouba tulae Urb.,38.8827087,-77.0163235,Washington,United States
+520,1/19/2021,Acanthaceae,Acanthus L.,45.7168,-75.06599,Saint-André-Avellin,Canada
+521,11/11/2020,Rhamnaceae,Colubrina glandulosa Perkins var. antillana (M.C. Johnst.) M.C. Johnst.,42.3416847,69.590101,Shymkent,Kazakhstan
+522,1/22/2021,Fabaceae,Lupinus arbustus Douglas ex Lindl. ssp. silvicola (A. Heller) D. Dunn,49.4928119,-117.2948343,Nelson,Canada
+523,9/19/2020,Acarosporaceae,Acarospora nodulosa (Dufour) Hue,43.6017884,1.4040802,Toulouse,France
+524,9/6/2021,Arecaceae,Bactris guineensis (L.) H.E. Moore,31.62329,35.10446,Bayt Ūmmar,Palestinian Territory
+525,6/2/2021,Euphorbiaceae,Euphorbia strictior Holz.,34.26645,108.960747,Xinchengzi,China
+526,6/27/2021,Scrophulariaceae,Mimulus traskiae A.L. Grant,48.3908952,22.5431871,Strabychovo,Ukraine
+527,2/10/2021,Brassicaceae,Streptanthus morrisonii F.W. Hoffm. ssp. elatus F.W. Hoffm.,21.270702,110.359368,Zhantang,China
+528,1/10/2021,Asteraceae,Arnica angustifolia Vahl ssp. tomentosa (Macoun) G.W. Douglas & G. Ruyle-Douglas,43.1564817,-80.1651854,Brant,Canada
+529,9/28/2020,Asteraceae,Brickelliastrum R.M. King & H. Rob.,7.4774153,-71.2970721,El Cantón,Venezuela
+530,2/9/2021,Polemoniaceae,Microsteris gracilis (Hook.) Greene var. gracilis,24.8197427,-107.655919,La Palma,Mexico
+531,12/23/2020,Amblystegiaceae,Hygrohypnum closteri (Austin) Grout,-8.7433,121.7445,Wolomoni,Indonesia
+532,7/7/2021,Hydrophyllaceae,Phacelia pringlei A. Gray,32.6717749,-16.978243,Estreito Câmara de Lobos,Portugal
+533,5/5/2021,Cornaceae,Cornus suecica L.,50.88758,21.66654,Ożarów,Poland
+534,5/15/2021,Poaceae,Digitaria violascens Link,17.28268,121.87153,Antagan Segunda,Philippines
+535,11/8/2020,Orchidaceae,Piperia michaelii (Greene) Rydb.,23.1004248,-82.3858672,Cerro,Cuba
+536,5/19/2021,Scrophulariaceae,Castilleja schizotricha Greenm.,16.0332128,103.9344076,Selaphum,Thailand
+537,10/5/2020,Lycopodiaceae,Huperzia funiformis (Cham. ex Spring) Trevis.,-5.5844754,105.4771084,Sidomulyo,Indonesia
+538,7/13/2021,Asclepiadaceae,Asclepias viridiflora Raf.,50.480431,121.682569,Tulihe,China
+539,8/16/2021,Arecaceae,Areca L.,30.199688,110.674706,Wufeng,China
+540,11/3/2020,Dryopteridaceae,Lomariopsis Fée,-24.8763773,-54.9322782,Colonia Minga Porá,Paraguay
+541,8/27/2021,Fabaceae,Astragalus eremiticus Sheldon,58.848193,5.66466,Sandnes,Norway
+542,3/5/2021,Scrophulariaceae,Keckiella ternata (Torr. ex A. Gray) Straw ssp. septentrionalis (Munz & I.M. Johnst.) Straw,43.4945737,5.8978018,Paris 07,France
+543,11/19/2020,Parmeliaceae,Hypogymnia heterophylla L. Pike,51.62883,20.52487,Nowe Miasto nad Pilicą,Poland
+544,6/6/2021,Crassulaceae,Dudleya verityi K.M. Nakai,-22.4101426,-47.5717516,Rio Claro,Brazil
+545,3/7/2021,Asteraceae,"Machaeranthera gypsitherma G.L. Nesom, Vorobik & R.L. Hartm.",51.192893,22.0650878,Poniatowa,Poland
+546,11/25/2020,Asteraceae,Clappia A. Gray,55.1653099,37.6076437,Chekhov,Russia
+547,3/20/2021,Grimmiaceae,Racomitrium panschii (Müll. Hal.) Kindb.,-4.6488523,55.4194753,Port Glaud,Seychelles
+548,9/8/2021,Thelotremataceae,Myriotrema terebratulum (Nyl.) Hale,32.026097,112.232692,Dongjin,China
+549,2/22/2021,Fabaceae,Desmodium axillare (Sw.) DC. var. acutifolium (Kuntze) Urb.,47.2550409,-1.5401497,Nantes,France
+550,8/27/2021,Orchidaceae,Platanthera obtusata (Banks ex Pursh) Lindl. ssp. obtusata,32.7778898,61.6567273,Anār Darah,Afghanistan
+551,12/23/2020,Gentianaceae,"Centaurium namatophilum Reveal, C.R. Broome & Beatley",30.823054,110.973252,Maoping,China
+552,9/10/2021,Polygonaceae,Rumex ×dissimilis Rech. f. (pro sp.),-22.30275,-48.5755491,Jaú,Brazil
+553,6/28/2021,Asteraceae,Tetramolopium consanguineum (A. Gray) Hillebr. ssp. leptophyllum (Sherff) Lowrey var. kauense Lowrey,32.851086,129.9478595,Isahaya,Japan
+554,1/1/2021,Cuscutaceae,Cuscuta cuspidata Engelm.,-7.4694177,108.2322266,Cidima,Indonesia
+555,6/27/2021,Fabaceae,Dalea aurea Nutt. ex Pursh,39.6720868,-84.0960056,Dayton,United States
+556,8/26/2021,Caliciaceae,Calicium adspersum Pers.,48.8568191,36.5499896,Blyznyuky,Ukraine
+557,8/21/2021,Commelinaceae,Tradescantia paludosa E.S. Anderson & Woodson,28.3,88.53333,Kambaxoi,China
+558,7/1/2021,Isoetaceae,Isoetes acadiensis Kott,38.604702,100.825981,Hongsi,China
+559,5/2/2021,Poaceae,Poa mannii Munro ex Hillebr.,33.918534,8.1229329,Tozeur,Tunisia
+560,9/10/2021,Poaceae,Panicum alatum F. Zuloaga & O. Morrone var. minus (Andersson) F. Zuloaga & O. Morrone,40.7513017,48.4033184,Basqal,Azerbaijan
+561,7/2/2021,Geraniaceae,Erodium laciniatum (Cav.) Willd. var. bovei (Delile) Murbeck,43.25,67.65,Saryözek,Kazakhstan
+562,9/30/2020,Convolvulaceae,Jacquemontia verticillata (L.) Urb.,40.786334,20.7077766,Pirg,Albania
+563,7/25/2021,Apiaceae,Lilaeopsis masonii Mathias & Constance,45.089753,-64.3623382,Wolfville,Canada
+564,8/17/2021,Scrophulariaceae,Cordylanthus tenuis A. Gray ssp. viscidus (Howell) T.I. Chuang & Heckard,36.158405,45.4759898,Sardasht,Iran
+565,9/23/2020,Oleaceae,Fraxinus caroliniana Mill.,-13.1612425,-74.2152331,Conchopata,Peru
+566,7/4/2021,Orchidaceae,Platanthera flava (L.) Lindl.,-34.7097222,-58.3240611,General Villegas,Argentina
+567,12/29/2020,Rosaceae,Prunus subhirtella Miq.,14.5643857,121.1293312,Rosario,Philippines
+568,4/8/2021,Liliaceae,Allium L.,12.289736,10.3525964,Katagum,Nigeria
+569,1/19/2021,Caryophyllaceae,Cerastium gracile Dufour,61.0962323,28.8780526,Svetogorsk,Russia
+570,3/20/2021,Convolvulaceae,Jacquemontia tamnifolia (L.) Griseb.,26.1372068,68.2667265,Sakrand,Pakistan
+571,9/26/2020,Asteraceae,Leucanthemella Tzvelev,14.4240257,120.9428802,Imus,Philippines
+572,5/24/2021,Asteraceae,Hazardia cana (A. Gray) Greene,8.544642,124.961672,Maluko,Philippines
+573,9/28/2020,Cactaceae,Echinocereus pentalophus (DC.) Lem.,35.2901,116.317369,Zhifang,China
+574,11/5/2020,Capparaceae,Cleome platycarpa Torr.,30.169665,121.266579,Chixi,China
+575,12/4/2020,Orchidaceae,Cleistes divaricata (L.) Ames,-6.226676,106.810463,Era,Indonesia
+576,8/28/2021,Cactaceae,Cylindropuntia wolfii (L.D. Benson) J. Rebman,-7.0964497,108.6828838,Karangkancana,Indonesia
+577,11/25/2020,Asteraceae,Facelis Cass.,12.1630333,-84.2199753,Rama,Nicaragua
+578,10/31/2020,Orobanchaceae,Orobanche californica Cham. & Schltdl. ssp. condensa Heckard,14.7634494,49.6044141,Ash Shiḩr,Yemen
+579,12/12/2020,Asteraceae,Hieracium horridum Fr.,48.6514469,14.4161297,Dolní Dvořiště,Czech Republic
+580,4/24/2021,Gunneraceae,Gunnera manicata Linden,40.2627673,45.7004954,Norakert,Armenia
+581,8/23/2021,Cactaceae,Notocactus (K.M. Schum.) Backeb. & F.M. Knuth,46.366234,127.010966,Baikui,China
+582,5/19/2021,Malvaceae,Malvella lepidota (A. Gray) Fryxell,45.0244716,20.056916,Ljukovo,Serbia
+583,3/4/2021,Fumariaceae,Hypecoum pendulum L.,49.243003,2.510652,Creil,France
+584,3/4/2021,Primulaceae,Trientalis borealis Raf.,-8.4761212,-74.8068454,Campoverde,Peru
+585,7/28/2021,Euphorbiaceae,Argythamnia brandegeei Millsp. var. brandegeei Millsp. [excluded],37.892744,116.745762,Dengmingsi,China
+586,1/18/2021,Acanthaceae,Ruellia nudiflora (Engelm. & A. Gray) Urb. var. nudiflora,-7.3384839,108.8581191,Bantarmangu,Indonesia
+587,12/20/2020,Sterculiaceae,Sterculia apetala (Jacq.) Karst.,7.2333331,124.25,Dalumangcob,Philippines
+588,11/28/2020,Cactaceae,Opuntia fragilis (Nutt.) Haw.,-8.1635406,112.488749,Sumberpucung,Indonesia
+589,3/15/2021,Portulacaceae,Claytonia lanceolata Pall. ex Pursh var. lanceolata,25.555534,118.341965,Ximei,China
+590,11/28/2020,Pannariaceae,Pannaria hookeri (Borrer ex Sm.) Nyl.,33.9042954,73.3907315,Murree,Pakistan
+591,10/8/2020,Scrophulariaceae,Mimulus exiguus A. Gray,47.4636372,-79.4387857,Saint-Bruno-de-Guigues,Canada
+592,4/12/2021,Rubiaceae,Coffea liberica W. Bull ex Hiern.,32.225262,35.070676,Kafr Zībād,Palestinian Territory
+593,2/13/2021,Verrucariaceae,Verrucaria hydrela Ach.,53.940892,-8.9480659,Swinford,Ireland
+594,11/27/2020,Apiaceae,Sphenosciadium A. Gray,-6.3503773,106.8974964,Munjul,Indonesia
+595,2/23/2021,Asteraceae,Tephroseris atropurpurea (Ledeb.) Holub,37.7213799,-25.510372,Água de Pau,Portugal
+596,6/13/2021,Poaceae,Triplasis americana P. Beauv.,47.0682122,-0.8494862,Cholet,France
+597,9/15/2020,Parmeliaceae,Hypotrachyna revoluta (Flörke) Hale,-6.8180048,111.2695981,Kedungtulup,Indonesia
+598,10/2/2020,Asteraceae,Porophyllum Adans.,-29.6509722,-50.7757844,Taquara,Brazil
+599,4/24/2021,Teloschistaceae,Caloplaca oxfordensis Fink,35.575417,114.519311,Huaxian,China
+600,11/18/2020,Saxifragaceae,Saxifraga lyallii Engl.,32.7634169,-117.1230937,San Diego,United States
+601,1/10/2021,Chenopodiaceae,Atriplex fruticulosa Jeps.,5.0378453,21.2099808,Alindao,Central African Republic
+602,10/17/2020,Fabaceae,Chamaecrista serpens (L.) Greene var. serpens,34.014215,105.298756,Xihe,China
+603,11/9/2020,Urticaceae,Urera glabra (Hook. & Arn.) Weddell,29.591108,114.300474,Quankou,China
+604,3/29/2021,Polygonaceae,Dedeckera Reveal & J.T. Howell,33.9498503,-117.636429,Woken,China
+605,1/23/2021,Fabaceae,Pediomelum canescens (Michx.) Rydb.,46.0285851,-73.4499872,Joliette,Canada
+606,8/9/2021,Sterculiaceae,Sterculia urens Roxb.,-14.4715177,-48.558749,Niquelândia,Brazil
+607,2/16/2021,Poaceae,Paspalum laxum Lam.,18.4286115,-64.6184657,Road Town,British Virgin Islands
+608,10/8/2020,Scrophulariaceae,Verbascum L.,47.3591366,2.8002946,Orléans,France
+609,7/14/2021,Asteraceae,Sphaeromeria Nutt.,52.8595744,33.3645241,Pochep,Russia
+610,3/31/2021,Scrophulariaceae,Calceolaria L.,26.048803,116.619923,Xiacaoqiao,China
+611,2/23/2021,Euphorbiaceae,Euphorbia lucida Waldst. & Kit.,9.5700231,123.312382,Ginatilan,Philippines
+612,11/18/2020,Apiaceae,Tauschia howellii (J.M. Coult. & Rose) J.F. Macbr.,5.1088508,97.5788975,Simpang Ulim,Indonesia
+613,1/30/2021,Euphorbiaceae,Drypetes lateriflora (Sw.) Krug & Urb.,-9.8251183,16.912251,Malanje,Angola
+614,7/28/2021,Phlyctidaceae,Phlyctis speirea G. Merr.,43.7058177,2.1365748,Castres,France
+615,5/30/2021,Scrophulariaceae,Penstemon richardsonii Douglas ex Lindl. var. richardsonii,28.5594209,33.9468956,Saint Catherine,Egypt
+616,5/24/2021,Fabaceae,Centrosema (DC.) Benth.,-4.233333,-81.05,Tunal,Peru
+617,2/24/2021,Cactaceae,Harrisia fragrans Small ex Britton & Rose,-7.4066528,108.7719766,Cipari,Indonesia
+618,3/18/2021,Pottiaceae,Tortula mucronifolia Schwägr.,55.8431628,13.2986314,Eslöv,Sweden
+619,3/3/2021,Portulacaceae,Cistanthe umbellata (Torr.) Hershkovitz var. caudicifera (A. Gray) Kartesz & Gandhi,53.923995,37.9565339,Kireyevsk,Russia
+620,6/22/2021,Ericaceae,Vaccinium ovalifolium Sm.,45.7140258,20.7713965,Radojevo,Serbia
+621,2/26/2021,Rhamnaceae,Reynosia Griseb.,6.9782137,79.9115522,Kelaniya,Sri Lanka
+622,12/2/2020,Scrophulariaceae,Penstemon hartwegii Benth.,20.9874938,-77.4185584,Colombia,Cuba
+623,4/19/2021,Pteridaceae,Gaga arizonica (Maxon) F.W. Li & Windham,-6.1841954,106.8310178,Jalinan,Indonesia
+624,12/14/2020,Malvaceae,Sida fallax Walp.,-20.9475888,-44.913073,Santo Antônio do Amparo,Brazil
+625,2/14/2021,Bromeliaceae,Aechmea fasciata (Lindl.) Baker,39.928353,116.416357,Dongchen,China
+626,9/15/2020,Polemoniaceae,Gilia capitata Sims ssp. abrotanifolia (Nutt. ex Greene) V.E. Grant,49.3431786,16.2159455,Březí,Czech Republic
+627,5/21/2021,Rosaceae,Potentilla pensylvanica L.,6.014237,124.5885259,Nalus,Philippines
+628,11/2/2020,Asteraceae,Zinnia maritima Kunth,-7.3118486,108.6383454,Wadusari,Indonesia
+629,5/2/2021,Orobanchaceae,Orobanche corymbosa (Rydb.) Ferris ssp. mutabilis Heckard,-14.65067,-75.0634,El Ingenio,Peru
+630,9/14/2020,Chenopodiaceae,Atriplex calotheca (Rafn) Fr.,-26.1827713,-56.3712327,Caazapá,Paraguay
+631,11/16/2020,Cyperaceae,Eleocharis rostellata (Torr.) Torr.,-44.7299187,-72.6822812,Puerto Cisnes,Chile
+632,11/16/2020,Poaceae,Leptochloa panicea (Retz.) Ohwi ssp. mucronata (Michx.) Nowack,44.7739151,34.5968895,Rybache,Ukraine
+633,12/31/2020,Poaceae,Phragmites australis (Cav.) Trin. ex Steud. ssp. berlandieri (E. Fourn.) Saltonst. & Hauber,-7.026967,-37.2776539,Patos,Brazil
+634,6/29/2021,Malvaceae,Sidalcea covillei Greene,-20.3855743,-43.5035777,Ouro Preto,Brazil
+635,4/30/2021,Lauraceae,Persea nubigena L.O. Williams var. guatemalensis L.O. Williams,34.9852597,133.4885513,Niimi,Japan
+636,2/22/2021,Hydrophyllaceae,Phacelia pulchella A. Gray var. sabulonum J.T. Howell,43.6753017,45.1243099,Znamenskoye,Russia
+637,9/28/2020,Rosaceae,Crataegus iracunda Beadle,-6.35357,105.84432,Picungbera,Indonesia
+638,9/13/2021,Collemataceae,Collema pulchellum Ach.,-8.1553145,111.8270486,Pakel,Indonesia
+639,2/21/2021,Caryophyllaceae,Cerastium fontanum Baumg.,32.235967,110.227954,Zhushan Chengguanzhen,China
+640,10/30/2020,Brassicaceae,Brassica narinosa L.H. Bailey,25.403263,104.828238,Xiaoshiqiao,China
+641,6/10/2021,Liliaceae,Erythronium oregonum Applegate ssp. leucandrum (Applegate) Applegate,41.5872,129.6051376,Kyŏngsŏng,North Korea
+642,2/7/2021,Lamiaceae,Scutellaria wrightii A. Gray,50.772008,22.956207,Sułów,Poland
+643,8/22/2021,Fabaceae,Acacia caven (Molina) Molina,53.54091,15.55963,Węgorzyno,Poland
+644,1/20/2021,Disceliaceae,Discelium nudum (Dicks.) Brid.,2.7239834,101.9476452,Seremban,Malaysia
+645,9/23/2020,Apiaceae,Cicuta maculata L. var. victorinii (Fernald) B. Boivin,-7.1370986,108.4454089,Tigaherang,Indonesia
+646,3/4/2021,Geraniaceae,Geranium sibiricum L.,40.5854429,-8.6170601,Quintas,Portugal
+647,6/11/2021,Solanaceae,Datura kymatocarpa Barclay,-8.5738445,116.1093533,Selaparang Timur,Indonesia
+648,12/17/2020,Poaceae,Sporobolus silveanus Swallen,24.804232,98.296657,Lianghe,China
+649,11/14/2020,Caryophyllaceae,Paronychia fastigiata (Raf.) Fernald var. nuttallii (Small) Fernald,55.7646,37.6911,Lefortovo,Russia
+650,11/16/2020,Rubiaceae,Galium concinnum Torr. & A. Gray,32.101031,114.125656,Pingqiao,China
+651,7/4/2021,Rosaceae,Potentilla drummondii Lehm. ssp. bruceae (Rydb.) D.D. Keck,59.1201253,37.9014795,Cherepovets,Russia
+652,10/26/2020,Orchidaceae,Macradenia lutescens R. Br.,31.13856,113.744367,Luoqiao,China
+653,5/29/2021,Asteraceae,Youngia Cass.,39.0000158,140.0433007,Masuda,Japan
+654,3/4/2021,Brassicaceae,Caulanthus major (M.E. Jones) Payson,37.1022114,-8.3584177,Armação de Pêra,Portugal
+655,1/13/2021,Dryopteridaceae,"Dryopteris celsa (Wm. Palmer) Knowlt., Palmer & Pollard ex Small",53.49417,-8.83565,Tuam,Ireland
+656,2/23/2021,Polemoniaceae,Phlox bifida Beck,16.0501738,103.5899733,Roi Et,Thailand
+657,1/31/2021,Ranunculaceae,Coptis trifolia (L.) Salisb.,19.4458447,-99.1497664,Buenavista,Mexico
+658,4/24/2021,Cyperaceae,Cyperus serotinus Rottb.,-11.403372,-74.752726,Mariposa,Peru
+659,6/3/2021,Asteraceae,Logfia arizonica (A. Gray) Holub,36.0720984,49.7013486,Tākestān,Iran
+660,4/29/2021,Cyperaceae,Schoenoplectus subulatus (Vahl) Lye,-30.2355009,-61.7285757,Arrufó,Argentina
+661,11/4/2020,Ranunculaceae,Aquilegia barnebyi Munz,45.6838431,28.6143107,Bolhrad,Ukraine
+662,7/24/2021,Asteraceae,Symphyotrichum cordifolium (L.) G.L. Nesom,34.5414989,133.5894821,Kamogatachō-kamogata,Japan
+663,12/25/2020,Rosaceae,Amelanchier laevis Wiegand,51.8139074,21.025291,Jasieniec,Poland
+664,5/9/2021,Liliaceae,Brodiaea orcuttii (Greene) Baker,-6.6111441,106.8473377,Sukaraja,Indonesia
+665,5/21/2021,Asteraceae,Holocarpha obconica (J.C. Clausen & D.D. Keck) D.D. Keck ssp. autumnalis D.D. Keck,8.1087597,-11.8478324,Baiima,Sierra Leone
+666,6/21/2021,Cyperaceae,Carex tetanica Schkuhr,7.1402468,40.7107871,Ginir,Ethiopia
+667,7/20/2021,Sapindaceae,Matayba Aubl.,-9.6602,119.0763,Ngondokandawu,Indonesia
+668,9/24/2020,Celastraceae,Euonymus alatus (Thunb.) Siebold,-6.7796462,107.9276672,Ciseda,Indonesia
+669,3/24/2021,Solanaceae,Capsicum annuum L.,5.9,6.833333,Uruobo-Okija,Nigeria
+670,7/18/2021,Juncaceae,Luzula arcuata (Wahlenb.) Sw. ssp. unalaschcensis (Buchenau) Hultén,41.16417,20.62333,Радолишта,Macedonia
+671,11/2/2020,Celastraceae,Gyminda latifolia (Sw.) Urb.,-14.2581428,-39.3932232,Ubaitaba,Brazil
+672,11/26/2020,Asteraceae,Reichardia picroides (L.) Roth,57.7297471,56.3724781,Bershet’,Russia
+673,10/11/2020,Pottiaceae,Acaulon muticum (Hedw.) Müll. Hal. var. rufescens (A. Jaeger) H.A. Crum,41.6755501,20.0553882,Derjan,Albania
+674,11/16/2020,Orchidaceae,Calypso Salisb.,38.8807023,-77.1086041,Arlington,United States
+675,12/13/2020,Asteraceae,Coreopsis palmata Nutt.,53.3928271,18.3836801,Świecie,Poland
+676,10/13/2020,Myrtaceae,Callistemon sieberi DC.,40.1315199,68.4829804,Dashtobod,Uzbekistan
+677,9/1/2021,Acanthaceae,Acanthus spinosus L.,51.4139633,-2.2685462,Ashley,United Kingdom
+678,4/18/2021,Poaceae,Elymus wiegandii Fernald,43,-87.97,Milwaukee,United States
+679,5/28/2021,Scheuchzeriaceae,Scheuchzeria L.,23.124745,113.331389,Xiancun,China
+680,9/8/2021,Cyperaceae,Carex nardina Fr. var. hepburnii (Boott) Kük.,19.2996147,-81.1099536,East End,Cayman Islands
+681,2/20/2021,Myrsinaceae,Myrsine petiolata Hosaka,29.549889,114.833005,Luo’ao,China
+682,1/13/2021,Aquifoliaceae,Ilex opaca Aiton,49.0386312,16.5942897,Hrušovany u Brna,Czech Republic
+683,4/25/2021,Polygonaceae,Eriogonum kennedyi Porter ex S. Watson var. alpigenum Munz & I.M. Johnst.,44.4959884,19.2677519,Tršić,Serbia
+684,2/22/2021,Caryophyllaceae,Stellaria holostea L.,3.9671435,103.40391,Kuantan,Malaysia
+685,7/16/2021,Acanthaceae,Justicia spicigera Schltdl.,-3.0166752,16.9181532,Mushie,Democratic Republic of the Congo
+686,8/26/2021,Bryaceae,Pohlia brevinervis Lindb. & Arnell,55.8547803,47.4687165,Kazanskoye,Russia
+687,8/21/2021,Apiaceae,Foeniculum vulgare Mill.,23.5711899,119.5793157,Penghu,China
+688,9/20/2020,Physciaceae,Buellia vernicoma (Tuck.) Tuck.,59.6443858,33.541032,Tikhvin,Russia
+689,3/13/2021,Fabaceae,Lespedeza violacea (L.) Pers.,31.83889,94.43722,Ya’ngan,China
+690,10/24/2020,Asteraceae,Microseris laciniata (Hook.) Sch. Bip. ssp. siskiyouensis K.L. Chambers,-16.1796844,-40.6953223,Almenara,Brazil
+691,3/28/2021,Fabaceae,Tephrosia mohrii (Rydb.) Godfrey,-24.3817381,-65.1218129,Maimará,Argentina
+692,9/18/2020,Poaceae,Chusquea Kunth,39.296173,113.690698,Jinshanpu,China
+693,11/15/2020,Asteraceae,Erigeron mexiae K. Becker,10.554131,123.0143845,Murcia,Philippines
+694,3/20/2021,Sphagnaceae,Sphagnum pylaesii Brid.,-13.316667,-75.783333,Chocos,Peru
+695,2/20/2021,Orchidaceae,Pleurothallis pubescens Lindl. ex Hook.,46.5214145,14.8523952,Mežica,Slovenia
+696,12/18/2020,Asteraceae,Layia chrysanthemoides (DC.) A. Gray,31.235029,121.512981,Jiefu,China
+697,1/29/2021,Liliaceae,Scoliopus bigelovii Torr.,47.4936583,21.66245,Szeged,Hungary
+698,4/23/2021,Asteraceae,Eutrochium maculatum (L.) E.E. Lamont var. maculatum ,24.02009,113.4221,Xiashitai,China
+699,5/10/2021,Rosaceae,Crataegus reverchonii Sarg.,-24.6967014,33.544808,Chibuto,Mozambique
+700,9/1/2021,Cactaceae,Pediocactus knowltonii L.D. Benson,-29.357495,-50.7832348,Canela,Brazil
+701,12/18/2020,Asteraceae,Symphyotrichum foliaceum (Lindl. ex DC.) G.L. Nesom var. apricum (A. Gray) G.L. Nesom,24.594229,121.8533264,Su’ao,China
+702,1/28/2021,Poaceae,Leymus pacificus (Gould) D.R. Dewey,-2.8850378,32.2313539,Geita,Tanzania
+703,10/25/2020,Anacardiaceae,Cotinus obovatus Raf.,-14.9061237,50.2785486,Antalaha,Madagascar
+704,1/14/2021,Smilacaceae,Smilax biltmoreana (Small) J.B.S. Norton ex Pennell,39.296173,113.690698,Jinshanpu,China
+705,9/3/2021,Fabaceae,Lotus heermannii (Durand & Hilg.) Greene var. orbicularis (A. Gray) Isely,51.8976469,21.8061634,Miastków Kościelny,Poland
+706,7/23/2021,Piperaceae,Peperomia hypoleuca Miq.,27.406721,114.715117,Guashe,China
+707,5/26/2021,Campanulaceae,Lobelia appendiculata A. DC. var. gattingeri (A. Gray) McVaugh,-6.9547303,107.3787448,Cinagrog Girang,Indonesia
+708,9/10/2021,Thelypteridaceae,Thelypteris globulifera (Brack.) C.F. Reed,22.1623468,105.6002024,Bằng Lũng,Vietnam
+709,12/5/2020,Asteraceae,Psilactis asteroides A. Gray,39.4472756,45.2771033,Çalxanqala,Azerbaijan
+710,6/20/2021,Ranunculaceae,Delphinium hansenii (Greene) Greene ssp. ewanianum Warnock,40.8782107,14.2657584,Napoli,Italy
+711,10/4/2020,Asteraceae,Cotula coronopifolia L.,58.1456847,12.1337569,Lilla Edet,Sweden
+712,2/27/2021,Potamogetonaceae,Potamogeton ×schreberi Fisch.,32.519246,108.533377,Ziyang Chengguanzhen,China
+713,9/27/2020,Poaceae,Melica subulata (Griseb.) Scribn. var. subulata,50.2124156,36.1590565,Slatyne,Ukraine
+714,9/25/2020,Rosaceae,Crataegus extraria Beadle,52.4598946,17.6844943,Niechanowo,Poland
+715,5/17/2021,Cyperaceae,Schoenoplectus etuberculatus (Steud.) Soják,-1.0762009,-46.5547852,Augusto Corrêa,Brazil
+716,11/27/2020,Brassicaceae,Moricandia arvensis (L.) DC.,10.1718844,106.4641459,Giồng Trôm,Vietnam
+717,12/19/2020,Euphorbiaceae,Croton L.,-6.976504,114.1112351,Dungkek Laok,Indonesia
+718,1/12/2021,Verbenaceae,Clerodendrum bungei Steud.,36.650038,101.766228,Chengbei,China
+719,6/5/2021,Teloschistaceae,Caloplaca pollinii (A. Massal.) Jatta,5.9354963,-4.2230836,Agboville,Ivory Coast
+720,4/7/2021,Brassicaceae,Halimolobos jaegeri (Munz) Rollins,50.1617318,16.9473457,Staré Město,Czech Republic
+721,6/3/2021,Pinaceae,Pinus armandii Franch.,-7.4417327,111.1056539,Gondang,Indonesia
+722,8/21/2021,Ericaceae,Gaultheria procumbens L.,42.0288112,20.9969544,Poroj,Macedonia
+723,2/11/2021,Polygonaceae,Eriogonum arborescens Greene,15.6019543,-87.6112325,Paujiles,Honduras
+724,8/30/2021,Asteraceae,Micropus L.,24.960385,118.386279,Nan’an,China
+725,3/17/2021,Orchidaceae,Bletia purpurea (Lam.) DC.,36.070149,101.931253,Yashiga,China
+726,12/11/2020,Amblystegiaceae,Drepanocladus (Müll. Hal.) G. Roth,59.4226704,17.8334683,Järfälla,Sweden
+727,7/20/2021,Sphagnaceae,Sphagnum trinitense Müll. Hal.,52.7387427,58.6660975,Porkhov,Russia
+728,9/28/2020,Portulacaceae,Talinum gooddingii P. Wilson,4.682198,9.3215345,Bekondo,Cameroon
+729,7/4/2021,Graphidaceae,Graphina playtleuca (Nyl.) Zahlbr.,34.1615135,-118.3403506,Burbank,United States
+730,6/27/2021,Ericaceae,Elliottia Muhl. ex Elliott,22.948016,113.366904,Siqiao,China
+731,5/14/2021,Loganiaceae,Gelsemium Juss.,15.6580509,103.6131203,Kaset Wisai,Thailand
+732,3/14/2021,Fabaceae,Tephrosia thurberi (Rydb.) C.E. Wood,39.017921,115.768472,Heilongkou,China
+733,3/8/2021,Asteraceae,Thymophylla micropoides (DC.) Strother,50.8777778,6.0781852,Kerkrade,Netherlands
+734,5/27/2021,Verbenaceae,Stachytarpheta ×intercedens Danser,59.3593609,17.9863038,Solna,Sweden
+735,4/14/2021,Poaceae,Sphenopholis filiformis (Chapm.) Scribn.,54.0058465,17.7763729,Dziemiany,Poland
+736,5/30/2021,Juncaceae,Juncus pallidus R. Br.,-6.3385652,106.9447146,Jatisari,Indonesia
+737,7/31/2021,Polygonaceae,Eriogonum allenii S. Watson,31.911205,35.268988,Dayr Dibwān,Palestinian Territory
+738,2/21/2021,Bacidiaceae,Lecania erysibe (Ach.) Mudd,44.5140354,41.4352936,Poputnaya,Russia
+739,12/11/2020,Solanaceae,Physalis hederifolia A. Gray,52.9434371,20.5544716,Regimin,Poland
+740,8/2/2021,Poaceae,Eragrostis glutinosa (Sw.) Trin.,36.6493964,139.8816085,Kanoya,Japan
+741,2/28/2021,Scrophulariaceae,Synthyris borealis Pennell,-0.6850063,100.3273368,Lubukalung,Indonesia
+742,7/10/2021,Poaceae,Aegopogon tenellus (DC.) Trin.,13.2143917,12.0289902,Maïné Soroa,Niger
+743,4/9/2021,Polygonaceae,Polygonum sagittatum L.,16.043877,120.131429,Labrador,Philippines
+744,1/10/2021,Araceae,Colocasia esculenta (L.) Schott var. antiquorum (Schott) Hubbard & Rehder,14.8548457,105.0791228,Det Udom,Thailand
+745,5/20/2021,Asteraceae,Erigeron petrophilus Greene,-10.7475,123.2394,Bengubelan,Indonesia
+746,3/13/2021,Asteraceae,Crepis capillaris (L.) Wallr.,35.1799817,128.1076213,Chinju,South Korea
+747,3/30/2021,Iridaceae,Nemastylis floridana Small,55.615632,37.4668955,Mosrentgen,Russia
+748,10/28/2020,Asteraceae,Artemisia tridentata Nutt.,50.1344867,18.6793794,Czerwionka-Leszczyny,Poland
+749,7/1/2021,Sapindaceae,Cardiospermum corindum L.,40.6230031,19.4690444,Novoselë,Albania
+750,2/18/2021,Dryopteridaceae,Tectaria incisa Cav.,37.444498,114.498761,Lincheng,China
+751,6/18/2021,Asteraceae,Symphyotrichum depauperatum (Fernald) G.L. Nesom,51.976466,21.215337,Góra Kalwaria,Poland
+752,9/30/2020,Scrophulariaceae,Castilleja hispida Benth. ssp. brevilobata (Piper) T.I. Chuang & Heckard,55.6760366,12.5657728,København,Denmark
+753,6/15/2021,Parmeliaceae,Hypotrachyna osseoalba (Vain.) Park & Hale,39.5421345,-118.5736924,Ponte,Portugal
+754,11/2/2020,Fabaceae,Indigofera guatemalensis Moc. & Sessé ex Prain & Backer,50.6573133,14.7389618,Dranoc,Kosovo
+755,6/21/2021,Polygalaceae,Polygala boykinii Nutt.,11.2131346,4.579209,Shanga,Nigeria
+756,8/2/2021,Pteridaceae,Cryptogramma stelleri (S.G. Gmel.) Prantl,22.266978,113.502213,Yufa,China
+757,7/4/2021,Pinaceae,Larix sibirica Ledeb.,7.7657031,-80.2711588,Las Tablas,Panama
+758,3/26/2021,Asteraceae,Parthenium L.,55.8024235,37.4219388,Strogino,Russia
+759,4/16/2021,Ericaceae,Arctostaphylos manzanita Parry ssp. elegans (Eastw.) P.V. Wells,49.35253,16.4024121,Předklášteří,Czech Republic
+760,4/4/2021,Asteraceae,Phalacroseris A. Gray,37.2848363,-7.4666729,Azinhal,Portugal
+761,6/23/2021,Ranunculaceae,Ranunculus abortivus L.,-6.7455152,111.2293563,Kuniran,Indonesia
+762,1/25/2021,Physciaceae,Rinodina arctica H. Magn.,22.362731,113.552698,Tangjiawan,China
+763,5/22/2021,Hymeneliaceae,Aspicilia sublapponica (Zahlbr.) Oksner,3.7953482,10.1367166,Edéa,Cameroon
+764,1/18/2021,Thelypteridaceae,Thelypteris hispidula (Decne.) C.F. Reed var. inconstans (C. Chr.) Proctor,32.060255,118.796877,Jinling,China
+765,3/18/2021,Verrucariaceae,Verrucaria fusconigrescens Nyl.,31.859964,120.411393,Aoyang,China
+766,8/20/2021,Fagaceae,Quercus ×sterretii Trel.,36.130754,107.497706,Suishan,China
+767,6/25/2021,Asteraceae,Luina Benth.,52.6545685,41.4475479,Severnyy,Russia
+768,7/2/2021,Oleaceae,Osmanthus americanus (L.) Benth. & Hook. f. ex A. Gray,2.0259109,-75.994964,Oporapa,Colombia
+769,1/25/2021,Bignoniaceae,Pithecoctenium Mart. ex Meisn.,20.452352,-97.3141928,El Mirador,Mexico
+770,3/26/2021,Flacourtiaceae,Caloncoba Gilg,42.6869167,21.0670387,Obiliq,Kosovo
+771,1/9/2021,Asteraceae,Antennaria rosulata Rydb.,23.018033,-82.3343375,Arroyo Naranjo,Cuba
+772,10/1/2020,Salicaceae,Salix humboldtiana Willd.,-21.563131,-51.2658432,Pacaembu,Brazil
+773,1/13/2021,Scrophulariaceae,Cordylanthus eremicus (Coville & Morton) Munz ssp. kernensis T.I. Chuang & Heckard,-8.339302,122.8366556,Lewokluok,Indonesia
+774,2/7/2021,Myrtaceae,Melaleuca huegelii Endl.,26.422277,112.859759,Leiyang,China
+775,1/14/2021,Papaveraceae,Eschscholzia papastillii Still,15.3954121,-88.0534236,El Marañón,Honduras
+776,10/23/2020,Potamogetonaceae,Potamogeton ×mysticus Morong (pro sp.),-3.9879753,-79.3535714,Catamayo,Ecuador
+777,2/23/2021,Oxalidaceae,Averrhoa carambola L.,33.025433,119.020584,Jinhu,China
+778,1/28/2021,Asteraceae,Achillea ligustica All.,43.1520105,126.4371385,Dejilin,China
+779,8/6/2021,Portulacaceae,Montia chamissoi (Ledeb. ex Spreng.) Greene,16.0619782,103.4049445,Kae Dam,Thailand
+780,8/29/2021,Fabaceae,Amorpha schwerinii C.K. Schneid.,53.0803781,85.6747154,Tselinnoye,Russia
+781,12/3/2020,Fabaceae,Baptisia perfoliata (L.) R. Br.,46.5402775,15.3884817,Lovrenc na Pohorju,Slovenia
+782,11/25/2020,Lamiaceae,Monardella exilis (A. Gray) Greene,37.8311926,112.5870889,Dicun,China
+783,8/3/2021,Apiaceae,Peucedanum sandwicense Hillebr.,22.251924,112.794065,Haishan,China
+784,11/26/2020,Brassicaceae,Cardaminopsis Hayek,58.4078726,51.1841486,Zuyevka,Russia
+785,5/2/2021,Celastraceae,Celastrus orbiculatus Thunb.,45.8299686,-64.2092372,Amherst,Canada
+786,3/14/2021,Anacardiaceae,Cotinus coggygria Scop.,-8.0464521,112.3933836,Doko,Indonesia
+787,8/1/2021,Euphorbiaceae,Phyllanthus acuminatus Vahl,10.4819603,-6.4130601,Tengrela,Ivory Coast
+788,8/28/2021,Scrophulariaceae,Cordylanthus maritimus Nutt. ex Benth. ssp. canescens (A. Gray) T.I. Chuang & Heckard,43.0429124,1.9038837,Lyon,France
+789,6/1/2021,Cyperaceae,Kobresia sibirica (Turcz. ex Ledeb.) Boeckeler,39.3131016,-9.1836701,Roliça,Portugal
+790,6/7/2021,Verrucariaceae,Verrucaria submuralis Nyl.,57.6442367,56.4727932,Kukushtan,Russia
+791,11/30/2020,Asteraceae,Senecio aquaticus Hill ssp. barbareifolius (Wimm. & Grab.) S.M. Walters,-25.8681839,-50.3842316,São Mateus do Sul,Brazil
+792,1/12/2021,Heliconiaceae,Heliconia caribaea Lam.,32.2945837,-64.7858887,Hamilton,Bermuda
+793,7/18/2021,Salicaceae,Salix lasiolepis Benth. var. lasiolepis,44.573753,129.627161,Danzi,China
+794,11/26/2020,Linaceae,Linum carteri Small var. carteri,17.18333,120.43333,Patpata Segundo,Philippines
+795,12/28/2020,Asteraceae,Antennaria anaphaloides Rydb.,50.3201495,119.1052507,Priargunsk,Russia
+796,6/8/2021,Bartramiaceae,Conostomum tetragonum (Hedw.) Lindb.,30.63963,114.385538,Qingshandi,China
+797,12/21/2020,Poaceae,Urochloa deflexa (Schumach.) H. Scholz,40.076762,113.300129,Datong,China
+798,2/25/2021,Scrophulariaceae,Pedicularis contorta Benth. var. ctenophora (Rydb.) A. Nelson & J.F. Macbr.,1.480524,99.0267076,Sumuran,Indonesia
+799,5/14/2021,Psoraceae,Psora crenata (Taylor) Reinke,38.1553558,140.2706039,Matsuyama,Japan
+800,3/16/2021,Scrophulariaceae,Penstemon guadalupensis A. Heller,-25.586431,-49.4052251,Araucária,Brazil
+801,10/31/2020,Rubiaceae,Galium trifidum L. ssp. halophilum (Fernald & Wiegand) Puff,-9.4542,119.2271,Redakodi,Indonesia
+802,7/29/2021,Fissidentaceae,Fissidens closteri Austin,14.8823312,120.224318,Subic,Philippines
+803,9/22/2020,Onagraceae,Epilobium hornemannii Rchb.,32.3989318,-86.3224638,Montgomery,United States
+804,8/13/2021,Asteraceae,Psilactis asteroides A. Gray,23.219932,102.835223,Quanyang,China
+805,1/23/2021,Hypnaceae,Pseudotaxiphyllum homomallifolium (Redf.) Irel.,40.9201953,23.9742039,Rodolívos,Greece
+806,2/25/2021,Pottiaceae,Barbula unguiculata Hedw.,31.30275,121.389084,Shiqiaotou,China
+807,2/9/2021,Fabaceae,Astragalus amnis-amissi Barneby ex C.L. Hitchc.,-8.1774335,-49.4466005,Conceição do Araguaia,Brazil
+808,3/23/2021,Apocynaceae,Carissa macrocarpa (Eckl.) A. DC.,35.1274285,-80.8599193,Charlotte,United States
+809,10/31/2020,Potamogetonaceae,Potamogeton ×saxonicus Hagstr.,26,99.8333333,Cangshan,China
+810,4/13/2021,Asclepiadaceae,Asclepias brachystephana Engelm. ex Torr.,14.9045936,-91.4825577,San Andrés Xecul,Guatemala
+811,9/17/2020,Chenopodiaceae,Atriplex spinifera J.F. Macbr.,-38.25,-72.6833,Traiguén,Chile
+812,6/2/2021,Solanaceae,Solanum seaforthianum Andrews,34.2312322,-5.7194522,Sidi Qacem,Morocco
+813,6/6/2021,Malvaceae,Malvella leprosa (Ortega) Krapov.,43.1613333,46.0016156,Girey,Russia
+814,10/6/2020,Asteraceae,Eutrochium purpureum (L.) E.E. Lamont,43.4945737,5.8978018,Paris 02,France
+815,4/28/2021,Cistaceae,Helianthemum greenei B.L. Rob.,-7.0407255,107.0893798,Wangunjaya,Indonesia
+816,12/25/2020,Pertusariaceae,Pertusaria shenandoensis Hale & Dibben,5.1964397,-74.2349232,Pacho,Colombia
+817,2/18/2021,Rosaceae,Rubus particularis L.H. Bailey,14.5941382,121.0671868,Ocampo,Philippines
+818,11/3/2020,Rubiaceae,Galium oreganum Britton,47.4098736,32.4412263,Bashtanka,Ukraine
+819,10/3/2020,Gesneriaceae,Cyrtandra oenobarba H. Mann,23.3790333,113.7632828,Guangang,China
+820,9/4/2021,Loasaceae,Mentzelia tricuspis A. Gray,9.5844123,-11.5589105,Kabala,Sierra Leone
+821,9/5/2021,Cyperaceae,Carex rotundata Wahlenb.,12.3390296,-83.6747342,Laguna de Perlas,Nicaragua
+822,5/13/2021,Orchidaceae,Platanthera flava (L.) Lindl. var. flava,40.0966354,116.6409433,Shuanghejiedao,China
+823,12/25/2020,Heliconiaceae,Heliconia bihai (L.) L.,13.7032564,44.7334536,Dhalie,Yemen
+824,7/30/2021,Asteraceae,Symphyotrichum novi-belgii (L.) G.L. Nesom var. elodes (Torr. & A. Gray) G.L. Nesom,-6.264999,106.8513919,Tembau,Indonesia
+825,4/8/2021,Liliaceae,Trillium pusillum Michx. var. pusillum,14.3380654,100.8677256,Nong Khae,Thailand
+826,8/11/2021,Helodiaceae,Helodium blandowii (F. Weber & D. Mohr) Warnst.,44.0264621,5.0852479,Carpentras,France
+827,1/7/2021,Apiaceae,Neoparrya lithophila Mathias,30.789876,103.455954,Heiheba,China
+828,10/2/2020,Ericaceae,Vaccinium reticulatum Sm.,35.580629,104.610668,Anding,China
+829,2/4/2021,Lamiaceae,Lycopus L.,25.489999,103.796167,Qujing,China
+830,7/12/2021,Malvaceae,Sphaeralcea psoraloides S.L. Welsh,40.5463267,22.2682863,Diavatós,Greece
+831,5/10/2021,Apiaceae,Lomatium nevadense (S. Watson) J.M. Coult. & Rose var. parishii (J.M. Coult. & Rose) Jeps.,53.58244,20.2827,Olsztynek,Poland
+832,7/24/2021,Acanthaceae,Justicia ovata (Walter) Lindau var. ovata,42.142214,21.688555,Kumanovo,Macedonia
+833,5/28/2021,Asteraceae,Artemisia macrobotrys Ledeb.,-6.4185424,106.8502879,Sukamaju,Indonesia
+834,9/18/2020,Cladoniaceae,Pycnothelia papillaria Ehrh.) L.M. Dufour,46.6322044,-0.5664231,Parthenay,France
+835,3/26/2021,Poaceae,Isachne carolinensis Ohwi,-29.2231867,-51.3423619,Farroupilha,Brazil
+836,12/20/2020,Sapotaceae,Sapota Mill.,-8.7393,121.3054,Tibakisa,Indonesia
+837,4/10/2021,Ericaceae,Arctostaphylos hooveri P.V. Wells,-22.573223,-47.1731269,Artur Nogueira,Brazil
+838,3/27/2021,Rubiaceae,Guettarda odorata (Jacq.) Lam.,0.8639157,-77.5529475,Córdoba,Colombia
+839,4/11/2021,Portulacaceae,Claytonia eschscholtzii Cham.,13.7514954,100.5108479,Pom Prap Sattru Phai,Thailand
+840,5/21/2021,Lichinaceae,Ephebe lanata (L.) Vain.,13.7390848,-89.1610748,Delgado,El Salvador
+841,5/24/2021,Meliaceae,Trichilia triacantha Urb.,29.086221,119.571633,Wucheng,China
+842,4/3/2021,Cymodoceaceae,Cymodocea K.D. Koenig,37.1672767,22.8592838,Leonídio,Greece
+843,12/11/2020,Apiaceae,Limnosciadium pumilum (Engelm. & A. Gray) Mathias & Constance,16.842826,120.402603,Cantoria,Philippines
+844,2/14/2021,Asteraceae,Microseris bigelovii (A. Gray) Sch. Bip.,14.024307,35.3685679,Al Qadarif,Sudan
+845,7/24/2021,Rubiaceae,Catesbaea parviflora Sw.,65.5759908,22.1917204,Luleå,Sweden
+846,7/14/2021,Campanulaceae,Cyanea scabra Hillebr.,53.806868,-9.1327273,Kinnegad,Ireland
+847,8/2/2021,Salicaceae,Salix lucida Muhl. ssp. lasiandra (Benth.) A.E. Murray,27.42839,85.03219,Hitura,Nepal
+848,10/28/2020,Fabaceae,Astragalus miser Douglas ex Hook. var. serotinus (A. Gray ex Cooper) Barneby,43.4945737,5.8978018,Paris 18,France
+849,5/6/2021,Rubiaceae,Asperula L.,40.079784,116.158066,Sujiatuo,China
+850,12/6/2020,Euphorbiaceae,Codiaeum variegatum (L.) A. Juss.,19.5094038,-71.595154,Piedra Blanca,Dominican Republic
+851,9/2/2021,Asteraceae,Glebionis coronarium (L.) Tzvelev,20.9275148,106.4081983,Tân Việt,Vietnam
+852,1/2/2021,Asteraceae,Pityopsis graminifolia (Michx.) Nutt. var. latifolia (Fernald) Semple & F.D. Bowers,22.656408,114.019351,Longhua,China
+853,6/9/2021,Poaceae,Pleuraphis mutica Buckley,38.7004586,-9.2923083,Paço de Arcos,Portugal
+854,12/18/2020,Liliaceae,Fritillaria eastwoodiae Macfarlane,39.772554,98.289419,Jiayuguan,China
+855,8/8/2021,Cyatheaceae,Cyathea borinquena (Maxon) Domin,49.7442318,21.9201324,Jasienica Rosielna,Poland
+856,5/19/2021,Capparaceae,Cleomella angustifolia Torr.,48.1862896,99.856925,Horgo,Mongolia
+857,7/21/2021,Poaceae,Spartina maritima (M.A. Curtis) Fernald,32.1018288,72.7912031,Sargodha,Pakistan
+858,11/24/2020,Rosaceae,Horkelia rydbergii Elmer,46.3194856,-0.4546217,Niort,France
+859,2/7/2021,Geraniaceae,Pelargonium ×hortorum L.H. Bailey (pro sp.),45.895779,85.349613,Baikouquan,China
+860,4/12/2021,Fabaceae,Trifolium pannonicum Jacq.,-7.3032329,108.6591293,Majingklak,Indonesia
+861,3/22/2021,Asteraceae,Symphyotrichum lowrieanum (Porter) G.L. Nesom,32.56,-85,Columbus,United States
+862,3/9/2021,Araceae,Xanthosoma robustum Schott,59.3730045,17.0201379,Strängnäs,Sweden
+863,10/31/2020,Lecanoraceae,Lecanora collatolica J.W. Thomson & T. Nash,59.4445121,18.071399,Täby,Sweden
+864,3/7/2021,Scrophulariaceae,Chelone L.,35.0880511,-106.6873356,La Esperanza,Mexico
+865,5/19/2021,Cyperaceae,Fimbristylis brevivaginata Kral,16.1225185,120.5222951,Palguyod,Philippines
+866,2/20/2021,Stereophyllaceae,Entodontopsis leucostega (Brid.) W.R. Buck & Irel.,40.546361,117.659499,Yingshouyingzi,China
+867,11/10/2020,Cactaceae,Grusonia pulchella (Engelm.) H. Rob.,62.471883,65.5542239,Nyagan,Russia
+868,1/13/2021,Poaceae,Bromus secalinus L. var. decipiens Bomble & H. Scholz,45.4372062,13.5257205,Umag,Croatia
+869,6/16/2021,Chenopodiaceae,Bassia americana (S. Watson) A.J. Scott,8.6800991,-82.855251,Quebrada Canoa,Panama
+870,5/13/2021,Fabaceae,Astragalus nothoxys A. Gray,43.9705397,19.5649108,Bajina Bašta,Serbia
+871,12/28/2020,Nymphaeaceae,Nymphaea tetragona Georgi,7.7442314,-7.6168439,Biankouma,Ivory Coast
+872,10/18/2020,Polemoniaceae,Phlox maculata L. ssp. pyramidalis (Sm.) Wherry,54.2877219,17.6311856,Jasień,Poland
+873,8/22/2021,Poaceae,Eragrostis spectabilis (Pursh) Steud.,43.4945737,5.8978018,Paris 02,France
+874,8/1/2021,Collemataceae,Leptogium arcticum P.M. Jørg.,46.575883,129.85086,Hongkeli,China
+875,5/25/2021,Orchidaceae,Stenorrhynchos Rich. ex Spreng.,34.676976,107.79016,Jiuchenggong,China
+876,4/25/2021,Sarraceniaceae,Sarracenia ×catesbaei Elliott (pro sp.),16.5836127,42.9149297,Al Jarādīyah,Saudi Arabia
+877,8/25/2021,Leucodontaceae,Alsia californica (Hook. & Arn.) Sull.,-4.6722064,-42.4724578,José de Freitas,Brazil
+878,9/17/2020,Liliaceae,Fritillaria imperialis L. [excluded],52.0016128,42.344717,Uvarovo,Russia
+879,4/8/2021,Ericaceae,Arctostaphylos gabilanensis V.T. Parker & M.C. Vasey,30.164169,118.271111,Tanjiaqiao,China
+880,3/13/2021,Scrophulariaceae,Veronica filiformis Sm.,28.3559058,52.9599661,Qīr,Iran
+881,1/6/2021,Convolvulaceae,Stictocardia Hallier f.,23.028956,113.143441,Nanhai,China
+882,12/13/2020,Poaceae,Sporobolus virginicus (L.) Kunth,19.7633057,96.0785104,Nay Pyi Taw,Myanmar
+883,1/29/2021,Iridaceae,Nemastylis tenuis (Herb.) Benth.,-34.0632815,18.6205309,Cape Town,South Africa
+884,4/25/2021,Brassicaceae,Streptanthus squamiformis Goodman,46.6794431,29.974368,Lymanske,Ukraine
+885,4/5/2021,Orthotrichaceae,Orthotrichum bolanderi Sull.,59.288124,18.0891528,Enskededalen,Sweden
+886,7/8/2021,Polygonaceae,Eriogonum zionis J.T. Howell,-6.6215219,106.8075136,Batutulis,Indonesia
+887,2/8/2021,Caryophyllaceae,Arenaria pseudofrigida (Ostenf. & O.C. Dahl) Juz. ex Schischk. & Knorring,25.386379,114.922922,Xinfeng,China
+888,7/1/2021,Apiaceae,Lomatium triternatum (Pursh) J.M. Coult. & Rose var. brevifolium (J.M. Coult. & Rose) Mathias,53.88335,-119.13585,Grande Cache,Canada
+889,1/17/2021,Verbenaceae,Clerodendrum speciosissimum Van Geert ex C. Morren,10.4009358,106.22868,Châu Thành,Vietnam
+890,9/6/2021,Euphorbiaceae,Phyllanthus acidus (L.) Skeels,-34.7415815,-58.4614889,Corral de Bustos,Argentina
+891,8/23/2021,Asteraceae,Rudbeckia hirta L. var. hirta,50.1380318,13.9911619,Tuchlovice,Czech Republic
+892,11/14/2020,Clusiaceae,Pentadesma butyracea Sabine,59.5043187,15.0421807,Nora,Sweden
+893,10/31/2020,Fabaceae,Neptunia pubescens Benth. var. microcarpa (Rose) Windler,48.316667,106.25,Sujji,Mongolia
+894,12/28/2020,Smilacaceae,Smilax herbacea L.,35.550111,112.713515,Qiqian,China
+895,4/27/2021,Rubiaceae,Mitchella repens L.,-7.7218793,113.4785837,Krajan Jabungcandi,Indonesia
+896,1/24/2021,Dicranaceae,Dicranella stickinensis Grout,38.7184882,-9.2938231,Vila Fria,Portugal
+897,9/16/2020,Orchidaceae,Tolumnia prionochila (Kraenzlin) G.J. Braem,62.2956257,28.2513674,Kangaslampi,Finland
+898,1/23/2021,Poaceae,Stipa kirghisorum P.A. Smirn.,3.9671435,103.40391,Kuantan,Malaysia
+899,10/29/2020,Lichinaceae,Metamelaena melambola (Tuck.) Henssen,-8.6438821,117.4145232,Semamung,Indonesia
+900,1/10/2021,Saxifragaceae,Heuchera rubescens Torr. var. versicolor (Greene) M.G. Stewart,-8.6766175,122.1291843,Sikka,Indonesia
+901,5/17/2021,Splachnaceae,Tayloria serrata (Hedw.) Bruch & Schimp.,52.4402961,20.6717224,Nowy Dwór Mazowiecki,Poland
+902,11/19/2020,Chenopodiaceae,Salicornia maritima Wolff & Jefferies,8.9475374,125.5406265,Anticala,Philippines
+903,10/30/2020,Fabaceae,Lotus yollabolliensis Munz,31.17959,71.20946,Chak Two Hundred Forty-Nine TDA,Pakistan
+904,7/26/2021,Hypnaceae,Herzogiella adscendens (Lindb.) Z. Iwats. & Schof.,59.2264863,18.2509127,Tyresö,Sweden
+905,9/3/2021,Orchidaceae,Cyclopogon miradorense Schltr.,48.8579687,2.5764306,Noisy-le-Grand,France
+906,10/21/2020,Brassicaceae,Erysimum capitatum (Douglas ex Hook.) Greene var. capitatum,26.647661,106.630153,Guiyang,China
+907,4/29/2021,Asteraceae,Helianthus pumilus Nutt.,-7.0802569,108.5127903,Babakandesa,Indonesia
+908,9/8/2021,Geraniaceae,Erodium cicutarium (L.) L'Hér. ex Aiton ssp. bipinnatum Tourlet,22.278214,114.182575,Tianyi,China
+909,1/13/2021,Lemnaceae,Lemna turionifera Landolt,54.3924957,48.577155,Pribrezhnyy,Russia
+910,4/27/2021,Lamiaceae,Stachys L.,-21.2484875,-45.0013747,Lavras,Brazil
+911,1/14/2021,Hymenophyllaceae,Trichomanes hymenophylloides Bosch,14.913868,-87.26432,Sulaco,Honduras
+912,8/4/2021,Fabaceae,Cercis canadensis L. var. texensis (S. Watson) M. Hopkins,53.4049709,21.5480129,Łyse,Poland
+913,5/8/2021,Cactaceae,Echinocereus enneacanthus Engelm.,53.1286984,-6.0704904,Greystones,Ireland
+914,7/9/2021,Asclepiadaceae,Calotropis gigantea (L.) W.T. Aiton,35.591349,108.104291,Hujiagou,China
+915,12/27/2020,Poaceae,Dichanthelium longiligulatum (Nash) Freckmann,-8.5309777,-37.1239897,Buíque,Brazil
+916,11/15/2020,Thymelaeaceae,Thymelaea Mill.,-7.2355945,111.5417207,Ngori,Indonesia
+917,6/25/2021,Violaceae,Viola tomentosa M.S. Baker & J.C. Clausen,36.4027362,139.0015333,Kanekomachi,Japan
+918,6/17/2021,Orchidaceae,Goodyera R. Br.,50.9621585,35.690669,Rakitnoye,Russia
+919,5/13/2021,Onagraceae,Camissonia exilis (P.H. Raven) P.H. Raven,-0.0998238,34.2747004,Siaya,Kenya
+920,4/5/2021,Crassulaceae,Sedum oregonense (S. Watson) M. Peck,-6.9044415,112.9148168,Tenggun Dajah,Indonesia
+921,9/14/2020,Tetraphidaceae,Tetraphis Hedw.,41.005341,71.236153,Chust Shahri,Uzbekistan
+922,2/4/2021,Brassicaceae,Cardamine breweri S. Watson var. breweri,58.3594831,11.2594186,Kungshamn,Sweden
+923,4/3/2021,Apiaceae,Peucedanum officinale L.,63.4400274,10.4024274,Trondheim,Norway
+924,1/5/2021,Marantaceae,Marantochloa cuspidata (Roscoe) Milne-Redh.,49.8687559,17.0138788,Horní Libina,Czech Republic
+925,12/1/2020,Poaceae,"Andropogon glomeratus (Walter) Britton, Sterns & Poggenb. var. scabriglumis C.S. Campbell",16.9905258,121.637093,Bangui,Philippines
+926,7/4/2021,Onagraceae,Epilobium ciliatum Raf. ssp. ciliatum,5.5864963,95.3514016,Sioah,Indonesia
+927,5/24/2021,Fabaceae,Trigonella caerulea (L.) Ser.,39.495941,63.85672,Karakul’,Uzbekistan
+928,5/20/2021,Euphorbiaceae,Argythamnia mercurialina (Nutt.) Müll. Arg.,50.104315,8.911141,Hanau,Germany
+929,2/9/2021,Grimmiaceae,Grimmia torquata Hornsch.,38.700427,112.117542,Huabeitun,China
+930,4/10/2021,Fabaceae,Lysiloma watsonii Rose,40.4369802,-7.9617993,Oliveira do Conde,Portugal
+931,9/20/2020,Chenopodiaceae,Beta nana Boiss. & Heldr.,35.0612128,33.4047109,Dhali,Cyprus
+932,2/7/2021,Polygonaceae,Polygonum orientale L.,42.17119,127.545072,Songjianghe,China
+933,5/27/2021,Brassicaceae,Thelypodiopsis Rydb.,21.48227,109.924347,Yingzai,China
+934,11/29/2020,Lycopodiaceae,Huperzia wilsonii (Underw. & Lloyd) B. Pllg.,39.29,-76.61,Baltimore,United States
+935,4/29/2021,Parmeliaceae,Hypotrachyna pustulifera (Hale) Skorepa,-2.0983597,-79.6923047,Yaguachi Nuevo,Ecuador
+936,10/31/2020,Asteraceae,Eurybia radula (Aiton) G.L. Nesom,-31.4422483,-64.1511226,Pehuajó,Argentina
+937,4/2/2021,Caryophyllaceae,Paronychia argyrocoma (Michx.) Nutt.,50.4251949,19.300593,Chruszczobród,Poland
+938,12/8/2020,Rosaceae,Gillenia stipulata (Muhl. ex Willd.) Baill.,56.166667,107.433333,Magistral’nyy,Russia
+939,4/16/2021,Rubiaceae,Guettarda valenzuelana A. Rich.,35.1241195,-90.0443217,Memphis,United States
+940,7/18/2021,Fabaceae,Lupinus kingii S. Watson var. argillaceus (Wooton & Standl.) C.P. Sm.,-5.9317384,-77.2261452,Yuracyacu,Peru
+941,4/25/2021,Poaceae,Sporobolus teretifolius Harper,27.519549,114.073416,Xinquan,China
+942,4/8/2021,Solanaceae,Solanum triquetrum Cav.,49.9606288,13.6430342,Studená,Czech Republic
+943,6/15/2021,Lamiaceae,Monarda citriodora Cerv. ex Lag.,-10.7246,123.0979,Potikosin,Indonesia
+944,6/18/2021,Cyperaceae,Carex vallicola Dewey,38.46613,68.80533,Boshkengash,Tajikistan
+945,5/9/2021,Campanulaceae,Cyanea hirtella (H. Mann) Hillebr.,-4.203165,-69.935907,Leticia,Colombia
+946,4/29/2021,Urticaceae,Urtica chamaedryoides Pursh,41.9339521,74.5404694,Chayek,Kyrgyzstan
+947,10/23/2020,Scrophulariaceae,Mimulus subsecundus A. Gray,29.60548,111.877499,Jinshi,China
+948,9/22/2020,Poaceae,Eriochloa acuminata (J. Presl) Kunth var. minor (Vasey) R.B. Shaw,33.3363836,-111.9343636,Tempe,United States
+949,1/7/2021,Rubiaceae,Galium coloradoense W. Wight,32.446834,35.167274,Ya‘bad,Palestinian Territory
+950,10/21/2020,Pottiaceae,Acaulon Müll. Hal.,50.1681621,40.3703941,Verkhniy Mamon,Russia
+951,3/23/2021,Berberidaceae,Berberis julianae C.K. Schneid.,13.7558622,7.986535,Tessaoua,Niger
+952,9/5/2021,Saxifragaceae,Parnassia fimbriata K.D. Koenig,25.331778,108.040593,Xieqiao,China
+953,3/26/2021,Primulaceae,Androsace septentrionalis L.,53.4405231,36.8430918,Skuratovskiy,Russia
+954,6/9/2021,Ephedraceae,Ephedra L.,46.3194856,-0.4546217,Niort,France
+955,6/18/2021,Brassicaceae,Arabidopsis arenicola (Richardson ex Hook.) Reidar Elvin et al.,30.54251,119.9774,Deqing,China
+956,8/10/2021,Brassicaceae,Smelowskia calycina (Stephan ex Willd.) C.A. Mey. var. americana (Regel & Herder) Drury & Rollins,-26.6536509,28.5914696,Balfour,South Africa
+957,8/18/2021,Brachytheciaceae,Brachythecium starkei (Brid.) Schimp.,32.4279191,13.6420599,Tarhuna,Libya
+958,9/29/2020,Poaceae,Elymus glaucus Buckley ssp. virescens (Piper) Gould,-24.5997626,17.9413323,Mariental,Namibia
+959,2/16/2021,Hymeneliaceae,Aspicilia nordlandica (H. Magn.) Degel.,45.6542789,-74.3481941,Lachute,Canada
+960,2/7/2021,Rubiaceae,Hedyotis flynnii W.L. Wagner & D.H. Lorence,9.9165452,-84.1014639,San José,Costa Rica
+961,10/17/2020,Annonaceae,Guatteria caribaea Urb.,9.453835,125.574534,Kitcharao,Philippines
+962,3/30/2021,Ranunculaceae,Actaea pachypoda Elliott,58.6922,59.832,Yëlkino,Russia
+963,9/16/2020,Moraceae,Morus rubra L. var. tomentosa (Raf.) Bureau,6.477755,-74.4088,Puerto Berrío,Colombia
+964,6/19/2021,Onagraceae,Camissonia scapoidea (Nutt. ex Torr. & A. Gray) P.H. Raven,-15.61532,-43.59187,Barreiro do Jaíba,Brazil
+965,11/15/2020,Solanaceae,Leucophysalis nana (A. Gray) Averett,-8.8325814,-35.2807624,Barreiros,Brazil
+966,2/3/2021,Rhamnaceae,Ziziphus zizyphus (L.) Karst.,34.527114,108.842622,Jingyang,China
+967,1/14/2021,Apiaceae,Apium repens (Jacq.) Lag.,-7.4066528,108.7719766,Cipari,Indonesia
+968,4/21/2021,Asteraceae,Dubautia knudsenii Hillebr. ssp. knudsenii,11.2975389,6.4956455,Dan Sadau,Nigeria
+969,9/6/2021,Xyridaceae,Xyris difformis Chapm. var. difformis,14.4730694,121.0286633,San Ramon,Philippines
+970,6/17/2021,Poaceae,Stipa kirghisorum P.A. Smirn.,9.1749262,-76.1435915,Moñitos,Colombia
+971,10/26/2020,Vitaceae,Parthenocissus heptaphylla (Buckley) Britton ex Small,-38.9568843,-68.1247915,Londres,Argentina
+972,10/14/2020,Malvaceae,Sphaeralcea grossulariifolia (Hook. & Arn.) Rydb.,25.797931,110.011238,Longsheng,China
+973,7/29/2021,Polemoniaceae,Gilia leptantha Parish ssp. purpusii (Milliken) A.D. Grant & V.E. Grant,3.5951956,98.6722227,Madan,Indonesia
+974,11/14/2020,Poaceae,Poa arida Vasey,50.1424249,15.1188883,Poděbrady,Czech Republic
+975,10/29/2020,Arecaceae,Ptychosperma elegans (R. Br.) Blume,14.5024732,120.9921722,Mabini,Philippines
+976,1/21/2021,Brassicaceae,Draba cusickii B.L. Rob. ex O.E. Schulz var. cusickii,32.964648,35.495997,Safed,Israel
+977,4/13/2021,Boraginaceae,Cryptantha welshii Thorne & Higgins,38.1162631,140.8585745,Asahi,Japan
+978,1/21/2021,Polemoniaceae,Leptodactylon californicum Hook. & Arn. ssp. leptotrichomum Gordon,38.8892896,-9.2065507,Lousa,Portugal
+979,5/27/2021,Gentianaceae,Sabatia gentianoides Elliott,49.0549661,16.6445006,Blučina,Czech Republic
+980,5/15/2021,Teloschistaceae,Caloplaca ulmorum (Fink) Fink,42.2375,113.83639,Xin Bulag,China
+981,1/16/2021,Asteraceae,Isocoma humilis G.L. Nesom,-7.294983,112.757558,Sekararum,Indonesia
+982,3/5/2021,Euphorbiaceae,Jatropha cathartica Terán & Berl.,32.457509,35.227727,Kafr Qūd,Palestinian Territory
+983,10/24/2020,Polygonaceae,Emex australis Steinh.,-24.3994943,26.1477598,Mochudi,Botswana
+984,3/19/2021,Solanaceae,Solanum mucronatum O.E. Schulz,43.7441795,2.511999,Marseille,France
+985,7/16/2021,Celastraceae,Euonymus phellomanus Loes.,-8.1265731,111.813634,Panggungsari,Indonesia
+986,12/10/2020,Amaranthaceae,Amaranthus fimbriatus (Torr.) Benth. ex S. Watson,35.615489,102.009491,Huangnaihai,China
+987,4/4/2021,Bartramiaceae,Philonotis glaucescens (Hornsch.) Broth.,18.2899888,-77.9530942,Bethel Town,Jamaica
+988,8/21/2021,Cucurbitaceae,Apodanthera undulata A. Gray,39.9947462,116.3397725,Xijiao,China
+989,9/21/2020,Lycopodiaceae,Huperzia stemmermanniae (A.C. Medeiros & W.H. Wagner) Kartesz,13.3539251,5.2344983,Gwadabawa,Nigeria
+990,3/9/2021,Commelinaceae,Tradescantia spathacea Sw.,23.156045,112.896606,Sanshui,China
+991,1/19/2021,Halymeniaceae,Grateloupia asiatica S. Kawaguchi & H.W. Wang,23.113478,113.417068,Dongpu,China
+992,7/20/2021,Iridaceae,Freesia laxa (Thunb.) Goldblatt & J.C. Manning,-8.1054,113.2827,Pondoktelo,Indonesia
+993,1/17/2021,Caryophyllaceae,Cerastium tomentosum L.,38.05106,114.463347,Xinhua,China
+994,12/14/2020,Poaceae,Dichanthelium acuminatum (Sw.) Gould & C.A. Clark var. thermale (Bol.) Freckmann,33.467588,104.285114,Quma,China
+995,4/15/2021,Apocynaceae,Echites P. Br.,38.021567,114.847075,Gaocheng,China
+996,9/3/2021,Verbenaceae,Stylodon carneus (Medik.) Moldenke,37.9442881,23.7117556,Néa Smýrni,Greece
+997,2/28/2021,Polygonaceae,Rumex spiralis Small,34.748808,113.6656069,Ta’erqi,China
+998,11/5/2020,Rosaceae,×Amelasorbus Rehder,38.7683879,139.9177739,Fujioka,Japan
+999,11/15/2020,Fabaceae,Astragalus argophyllus Nutt.,38.6966741,139.7765302,Fujisawa,Japan
+1000,5/25/2021,Orchidaceae,Eurystyles Wawra,43.1298714,45.5357156,Urus-Martan,Russia
